@@ -18,5 +18,5 @@ Es posible que se presenten dudas entre la diferenciación entre proyecto cooper
 
 ## Importante
 
-Como hemos podido ver en &nbsp;esta magnifica presentación, de su análisis se traduce algo muy importante: la elaboración y creación de proyectos colaborativos supone un cambio de paradigma y de ver la educación, no podemos hacer lo mismo con diferentes herramientas, esto es crucial para entender la esencia de estas actividades. El proyecto colaborativo aislado no tiene fundamento educativo, este se lo dará una visión mas amplia de lo que pretendemos hacer, dejemos a la creatividad actuar&hellip;&nbsp;
+Como hemos podido ver en esta magnifica presentación, de su análisis se traduce algo muy importante: la elaboración y creación de proyectos colaborativos supone un cambio de paradigma y de ver la educación, no podemos hacer lo mismo con diferentes herramientas, esto es crucial para entender la esencia de estas actividades. El proyecto colaborativo aislado no tiene fundamento educativo, este se lo dará una visión mas amplia de lo que pretendemos hacer, dejemos a la creatividad actuar&hellip;
 

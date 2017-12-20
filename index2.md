@@ -10,7 +10,7 @@ Una de las dificultades que tiene el trabajo en el aula es la sensación, que po
 El trabajo colaborativo tiene muchas cualidades y una de ellas es precisamente el hecho de que, aunque nos cueste un poco de esfuerzo, nos pone en contacto con otros puntos de vista, con otras realidades y nos abre muchas puertas que, a veces, ni siquiera habíamos sospechado que existían.
 
 Organizarse para rentabilizar las capacidades de todos y cada uno de los miembros del equipo, de cara a enriquecernos todos, es un objetivo un tanto utópico en la escuela con los problemas que tiene, pero hay muchas situaciones a mitad de camino que nos pueden servir.
-{% youtube %}https//www.youtube.com/watch?v=B3I_UYEANqg{% endyoutube %}|Fig. 2.1 Educarchile. Fuente: youtube<br /><br />
+{% youtube %}https//www.youtube.com/watch?v=B3I_UYEANqg{% endyoutube %}|Fig. 2.1 Educarchile. Fuente: youtube
 
 ## Objetivos
 

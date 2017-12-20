@@ -42,6 +42,6 @@ Fíjate que podemos detener la publicación cuando queramos
 ¿qué diferencia hay entre el enlace y el contenido embebido?
 
 - El** enlace **te lleva al documento, y se abre en una ventana de Google POR LO TANTO** SE PUEDE EDITAR **(si le has dado bien el permiso Mira la 2ª figura :** Cualquiera con el enlace puede editar.**
-- ****El** embebido **NUNCA SE PUEDE EDITAR,** ES SÓLO PARA VER **el usuario por mucho que pinche no se abre Google Docs.
+- **El** embebido **NUNCA SE PUEDE EDITAR,** ES SÓLO PARA VER **el usuario por mucho que pinche no se abre Google Docs.
 - Como en este módulo el objetivo es crear documentos colaborativos **EL ENLACE CON PERMISO DE EDICIÓN ES OBLIGATORIO **y el embebido es por cuestiones estéticas de que el artículo no quede pobre.
 

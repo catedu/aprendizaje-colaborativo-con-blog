@@ -51,7 +51,7 @@ Y ya tenemos el enlace que podemos poner en el artículo del Blog!!
 
 ## ¿Y cómo se pone el enlace en el artículo?
 
-Crear una entrada en nuestro blog, escribir el nombre que queremos darle al enlace, seleccionar<br />dicho texto y pulsar “enlace”
+Crear una entrada en nuestro blog, escribir el nombre que queremos darle al enlace, seleccionardicho texto y pulsar “enlace”
 
 ![](img/Seleccion_004.png)
 

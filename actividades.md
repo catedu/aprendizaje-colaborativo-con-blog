@@ -3,34 +3,34 @@
 ![](img/Trabajo_en_grupo.png)
 <td style="text-align: center;">Fig. 4.4 Fuente:[http://www.canarytek.com/oficina-modularit/ctk-groupware](http://www.canarytek.com/oficina-modularit/ctk-groupware)</td>
 
-&nbsp;
+
 
 Cualquier proyecto colaborativo llevará implícitas una serie de actividades, que es muy importante dejar claras desde el principio, y pueden ser:
 
 - Observación
-- B&uacute;squeda de información.
+- Búsqueda de información.
 - Ordenación de la misma.
 - Análisis de los datos.
 - Discusión o debate.
 - Resumen o síntesis de lo observado.
 - Creación de la documentación consecuente.
 - Intercambio.
-- Evaluación.&nbsp;
+- Evaluación.
 
-Además, de las actividades propuestas, son muy importantes las dinámicas de grupos y actividades de este estilo que fomentan el trabajo colaborativo. En este [articulo](http://aprendiendodemaneracolaborativa.wikispaces.com/Actividades+y+din%C3%A1micas+para+fomentar+el+aprendizaje+colaborativo), podéis ver una peque&ntilde;a síntesis de todo esto.
+Además, de las actividades propuestas, son muy importantes las dinámicas de grupos y actividades de este estilo que fomentan el trabajo colaborativo. En este [articulo](http://aprendiendodemaneracolaborativa.wikispaces.com/Actividades+y+din%C3%A1micas+para+fomentar+el+aprendizaje+colaborativo), podéis ver una pequeña síntesis de todo esto.
 
 Aquí, podemos ver en esta presentación un ejemplo expuesto por Aaron Mena, de lo que es una experiencia colaborativa.
 |<iframe src="http://prezi.com/embed/wtqbscwj8cyh/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined" frameborder="0" width="550" height="400"></iframe>
 
-&nbsp;
 
-Centrándonos en actividades, que podemos llevar a cabo desde ya en nuestra clase, &ldquo;se aprende haciendo&rdquo;, algunos ejemplos pueden ser, como muy bien expone Pere Marques, en su articulo &ldquo;Modelos didácticos de aprendizaje en grupo y aprendizaje colaborativo con TIC&rdquo;:
+
+Centrándonos en actividades, que podemos llevar a cabo desde ya en nuestra clase, "se aprende haciendo", algunos ejemplos pueden ser, como muy bien expone Pere Marques, en su articulo "Modelos didácticos de aprendizaje en grupo y aprendizaje colaborativo con TIC":
 
 - Ejercicios sencillos conjuntamente
 - Actividades de competición dentro del grupo(concursos..)
 - Alumnos ayudantes
 - Exposición de un trabajo colectivo utilizando la PDI/blog,etc..
-- Adoptar roles de profesor ante la clase&nbsp;
+- Adoptar roles de profesor ante la clase
 
 Desarrollando algunas de estas actividades, nos encontramos en el camino de los modelos didácticos de trabajo en grupo:
 
@@ -44,7 +44,7 @@ Desarrollando algunas de estas actividades, nos encontramos en el camino de los 
 **ALUMNOS/AS AYUDANTES**
 
 - Corrección colectiva de ejercicios, pudiendo utilizar rubricas
-- Compa&ntilde;ero-tutor
+- Compañero-tutor
 - Elaborar trabajos en el blog, que otros corregirán
 
 **ADOPTAR ROLES DE PROFESOR ANTE LA CLASE**

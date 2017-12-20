@@ -28,7 +28,7 @@ A veces en una actividad presencial, se crean fotos y todo el mundo necesita ver
 
 ## 
 
-4.-.En la barra de menús de Flickr selecciona "****Tus álbumes".****
+4.-.En la barra de menús de Flickr selecciona "**Tus álbumes".**
 
 ![](img/flickr1.png)
 

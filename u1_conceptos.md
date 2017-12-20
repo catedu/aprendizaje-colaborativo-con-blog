@@ -1,33 +1,31 @@
 
 # U1. Conceptos
 
-<strong style="font-size: medium;"><br />**Con 100 gramos de ilusión, una pu&ntilde;ado de motivación y una
+> Con 100 gramos de ilusión, una puñado de motivación y una pizca de conocimientos, cocinamos un blog rico, rico!!
 
-pizca de conocimientos, cocinamos un blog rico, rico!!
 
-&nbsp;
 
-**Introducción&nbsp;**
+**Introducción**
 
-En el informe que la representación de Suecia aportó al Seminario de la OCDE en Septiembre de 2001, celebrado en Santander, afirmó que **&ldquo;El ense&ntilde;ante funciona más como asesor y animador, menos como conferenciante. La ense&ntilde;anza es cada vez más individualizada y el abandono del modelo magistral &ndash; que se dirige a toda la clase- se ha acelerado&rdquo;.** En línea similar, la representación de los Países Bajos, refiriéndose al nuevo rol del docente ante la integración de las TIC, afirmó: &ldquo;**Se aprecia una evolución lenta, pero constante, de la educación tradicional centrada en el docente hacia ambientes de aprendizaje más ricos y diferenciados en los cuales, el rol del docente está asumiendo el perfil de apoyo. La integración de las TIC en los centros educativos estimula esta transformación&rdquo; **
+En el informe que la representación de Suecia aportó al Seminario de la OCDE en Septiembre de 2001, celebrado en Santander, afirmó que _"El enseñante funciona más como asesor y animador, menos como conferenciante. La enseñanza es cada vez más individualizada y el abandono del modelo magistral &ndash; que se dirige a toda la clase- se ha acelerado"_. En línea similar, la representación de los Países Bajos, refiriéndose al nuevo rol del docente ante la integración de las TIC, afirmó: _"Se aprecia una evolución lenta, pero constante, de la educación tradicional centrada en el docente hacia ambientes de aprendizaje más ricos y diferenciados en los cuales, el rol del docente está asumiendo el perfil de apoyo. La integración de las TIC en los centros educativos estimula esta transformación"_
 
-&nbsp;
+
 
 En nuestro país está ocurriendo un proceso similar, por ello, si convenimos que la tecnología por sí misma no produce cambios y que es necesario y urgente cambiar nuestro rol tradicional para aprovechar todas sus potencialidades, entenderás fácilmente el hecho de que no expliquemos aquí detalladamente lo que tal vez esperases que hiciésemos.
 
-&nbsp;
 
-Así que** &ldquo;nos entrenaremos&rdquo;, **también nosotros desde el principio, en esa nueva función de asesor, animador, orientador, apoyo y propiciador de** nuevos aprendizajes que t&uacute; debes ir construyendo personalmente.**
 
-&nbsp;
+Así que  _"nos entrenaremos"_, también nosotros desde el principio, en esa nueva función de asesor, animador, orientador, apoyo y propiciador de **nuevos aprendizajes que tú debes ir construyendo personalmente.**
 
-**¿Que son los blogs?**
+
+
+## ¿Que son los blogs?
 
 Un blog es una página web en la que uno o varios autores publican artículos con cierta periodicidad tratando temas muy actuales y novedosos. Por lo general, en estos artículos el autor no solo presenta un tema determinado sino que añade su visión u opinión. Suelen ir acompañados de material gráfico bastante llamativo. Estos artículos se conocen como “post” en inglés, o “publicaciones” en español.
 
 
 
-{% youtube %}https//www.youtube.com/watch?v=RcOkDKSvoRg{% endyoutube %}<td style="text-align: center;">Fig. 1.2 David Cantone. Fuente: youtube</td>
+{% youtube %}https//www.youtube.com/watch?v=RcOkDKSvoRg{% endyoutube %}
 
   
 

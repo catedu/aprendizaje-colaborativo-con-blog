@@ -5,7 +5,7 @@
 
 Cuando en un mensaje pulsamos al icono de responder, se añade automáticamente una mención al usuario, @usuario, luego....
 
-** **responder no es más que un mensaje con una mención al usuario que se responde****
+** **responder no es más que un mensaje con una mención al usuario que se responde**
 
 y el mensaje se convierte en una conversación pública
 

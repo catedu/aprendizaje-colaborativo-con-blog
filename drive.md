@@ -17,7 +17,7 @@ https://drive.google.com/file/d/0B3FoIk-apny0am95c3FhTVhkVTQ/view?usp=sharing
 
 4.- Creamos un artículo en el blog, entramos en el html, y pegamos el siguiente código:
 
-****&lt;iframe height="350" src="https://drive.google.com/file/d/0B3FoIk-apny0am95c3FhTVhkVTQ/preview" width="500"&gt;&lt;/iframe&gt;****
+**&lt;iframe height="350" src="https://drive.google.com/file/d/0B3FoIk-apny0am95c3FhTVhkVTQ/preview" width="500"&gt;&lt;/iframe&gt;**
 
 El valor de 500 es el ancho y el de 350 el alto, en píxeles, y lo puedes modificar como quieras.
 

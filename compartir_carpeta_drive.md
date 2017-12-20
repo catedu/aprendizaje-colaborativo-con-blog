@@ -17,7 +17,7 @@ Tienes que descargar [este ejercicio sencillo de inglés](EjercicioSimple.docx) 
 
 Que para que el alumno pueda subir el archivo tiene que tener un usuario en Google.
 
-****SOLUCIÓN****: No es necesario que todos los alumnos tengan distintos usuario de Google, luego creamos uno genérico, se les proporciona a los alumnos ese usuario y contraseña y que suban los archivos, eso sí cada uno con su nombre de archivo para saber cual es de quien.
+**SOLUCIÓN**: No es necesario que todos los alumnos tengan distintos usuario de Google, luego creamos uno genérico, se les proporciona a los alumnos ese usuario y contraseña y que suban los archivos, eso sí cada uno con su nombre de archivo para saber cual es de quien.
 
 ![](http://blog.storagemadeeasy.com/wp-content/uploads/2015/10/Dollarphotoclub_73234788.jpg)
 

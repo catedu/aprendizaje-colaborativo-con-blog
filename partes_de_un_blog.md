@@ -18,8 +18,8 @@ Otra palabra que encontraremos al publicar los posts es** “tag” **o** etique
 ## Ampliamos vocabulario
 
 - **Blogger**: persona que escribe y tiene un blog.
--** Enlace**: es un link que se añade al post para completar o ampliar información sobre el tema que se está tratando.
+- ** Enlace**: es un link que se añade al post para completar o ampliar información sobre el tema que se está tratando.
 - **Contenido** **multimedia**: engloba todos los vídeos, gifs e imágenes que queramos añadir en el post.
--** Plugin**: son programas que se instalan en el blog para ampliar sus características estándar.
+- **Plugin**: son programas que se instalan en el blog para ampliar sus características estándar.
 - **Widget**: aplicaciones que se instalan en el blog para cambiar su apariencia y añadir nuevos bloques.
 

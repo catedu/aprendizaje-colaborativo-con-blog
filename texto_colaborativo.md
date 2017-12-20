@@ -31,7 +31,7 @@ Pues así:
 
 Si MeetingWords y Collabedit no se puede embeber ¿cómo es que aquí esta embebido?
 
-<script type="text/javascript">var feedback65_93text ="Solución por si te pica la curiosidad";</script><input type="button" name="toggle-feedback-65_93" value="Solución por si te pica la curiosidad" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+<script type="text/javascript">var feedback65_93text ="Solución por si te pica la curiosidad"</script><input type="button" name="toggle-feedback-65_93" value="Solución por si te pica la curiosidad" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
 ### Retroalimentación
 

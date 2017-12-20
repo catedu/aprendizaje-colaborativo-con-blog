@@ -32,7 +32,7 @@ Blogs donde escribe el profesor pero de actividades colaborativas de los alumnos
 
 ## ¿Cómo hacerlo?
 
-<li>**ARABLOGS** es la herramienta ideal, está diseñado para que el profesor (administrador que en este caso se llama** **moderador****)
+<li>**ARABLOGS** es la herramienta ideal, está diseñado para que el profesor (administrador que en este caso se llama** **moderador**)
 <ul>
 - PERMITE DAR DE ALTA USUARIOS - ALUMNOS SIN NECESIDAD DE EMAILS
 - Existe la posibilidad de que los usuarios SEAN ALUMNOS DE INFANTIL con una interface adaptada a alumnos prelectores.

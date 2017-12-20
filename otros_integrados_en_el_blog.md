@@ -15,7 +15,7 @@ Si no te gusta Google, hay alternativas para realizar encuesta anónimas, el que
 
 **¿Cómo queda?**
 
-****Pues aquí tienes una muestra ¡¡¡participa!!! no te cortes!!!:
+**Pues aquí tienes una muestra ¡¡¡participa!!! no te cortes!!!:
 
 
 

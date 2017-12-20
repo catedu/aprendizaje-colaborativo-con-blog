@@ -3,7 +3,7 @@
 ![](img/trabajo-en-equipo155.gif)
 <td style="text-align: center;">Fig. 4.2 Fuente:[http://adkfh.blogspot.com.es/2013/05/trabajo-en-equipo-grupode-personas.html](http://adkfh.blogspot.com.es/2013/05/trabajo-en-equipo-grupode-personas.html)</td>
 
-&nbsp;
+
 
 Es evidente que esa decisión no se toma de forma espontánea y se medita, pero no estará de más que nos hagamos algunos planteamientos.
 
@@ -29,5 +29,5 @@ Sólo una **respuesta afirmativa** a estas preguntas nos debería **motivar para
 
 - Los productos finales que se espera conseguir han de quedar definidos en la convocatoria para que todos sepamos qué se pretende conseguir.
 
-- Temporalización de las actividades y su influencia en la programación.&nbsp;
+- Temporalización de las actividades y su influencia en la programación.
 

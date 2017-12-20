@@ -13,10 +13,10 @@ En este curso no pretendemos hacer un tutorial de cada herramienta, pero sí que
 - Elige un avatar adecuado a la entidad que representas.
 - Por defecto la cuenta es pública, marcarla privada no nos serviría, sólo verían nuestros tweets nuestros seguidores
 
-- En ****Twittear** **o en"****¿Qué está pasando?****" es donde ponemos nuestros mensajes, que no pueden superar los 140 carácteres
+- En **Twittear** **o en"**¿Qué está pasando?**" es donde ponemos nuestros mensajes, que no pueden superar los 140 carácteres
 -** Notificaciones **donde vemos las nuevas incorporaciones de la gente que nos sigue o han interaccionado con nuestros tweets
 - También se puede ver una visión de nuestra cuenta, el número de tweets, cuantos nos siguen y cuantos seguimos.
-- La zona central se ven de forma cronológica los mensajes de la gente que seguimos.** **Timeline****.
+- La zona central se ven de forma cronológica los mensajes de la gente que seguimos.** **Timeline**.
 
 ![](img/2017-01-31_02_15_15-Twitter.png)
 

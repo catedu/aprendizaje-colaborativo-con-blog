@@ -10,13 +10,13 @@ Herramientas más interactivas
 
 Visitando estos enlaces podéis añadir más información a la ya añadida. Son lecturas muy recomendables,variadas e interesantes acerca de todo lo visto hasta ahora:
 
-<br />- [periódicos escolares ](http://www.catedu.es/abrapalabra/index.php?option=com_content&amp;view=article&amp;id=192&amp;Itemid=271)
+- [periódicos escolares ](http://www.catedu.es/abrapalabra/index.php?option=com_content&amp;view=article&amp;id=192&amp;Itemid=271)
 ![](img/Dibujo.JPG)
 <td style="text-align: center;">Fig. 3.17 Captura de pantalla. Fuente: [http://www.catedu.es/abrapalabra/index.php?option=com_content&amp;view=section&amp;id=15&amp;Itemid=218](http://www.catedu.es/abrapalabra/index.php?option=com_content&amp;view=section&amp;id=15&amp;Itemid=218)</td>
 
  
 
-Excelente material sobre la mayoría de los aspectos a tener en cuenta a la hora de trabajar con **revistas escola****res**.
+Excelente material sobre la mayoría de los aspectos a tener en cuenta a la hora de trabajar con **revistas escola**res**.
 
 - [dinámicas de aprendizaje colaborativo](http://ineverycrea.net/comunidad/ineverycrea/recurso/dinamicas-de-trabajo-colaborativo-en-el-aula/5f4a18cf-4abd-40f1-baeb-69d0a718c196)
 ![](img/imagen_aprendizaje_coopertivo.jpg)

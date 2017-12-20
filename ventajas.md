@@ -1,8 +1,6 @@
 
 # Ventajas
 
-
-
 - Enseñar a los alumnos a utilizar la red como fuente de información. Los alumnos aprenden a buscar y obtener información, no solo escrita, sino también multimedia, y a transformarla en conocimiento.
 - Participación interactiva de los alumnos a través de los comentarios, ya sea entre docente y alumno o entre los alumnos.
 - El alumno aprende a escribir de forma breve y concisa, y además practica cómo expresarse en el mundo online.
@@ -14,11 +12,11 @@
 
 [Pin de Miguel López Moreno](https://es.pinterest.com/pin/447404544212872539/)
 
-**Posibilidades didácticas**
-![](img/VALORES.jpg)
-|Fig. 1.3 Diego Arroyo. Imagen explicativa
+## Posibilidades didácticas
 
-<br />Los blogs como herramientas educativas ofrecen múltiples posibilidades de trabajo en el aula, ya que:
+![Fig. de Diego Arroyo. Imagen explicativa](img/VALORES.jpg)
+
+Los blogs como herramientas educativas ofrecen múltiples posibilidades de trabajo en el aula, ya que:
 
 - Fomentan el intercambio de opiniones entre alumnos y profesores.
 - Son una innovadora herramienta educo-comunicativa que dinamiza el aula.
@@ -29,7 +27,7 @@
 - Desarrollan la organización del pensamiento propio y crítico.
 - Fomentan el trabajo en equipo dentro y fuera de la escuela.
 - Consolidan la identidad del alumno a través de su presencia en la Red.
-- Aportan distintos niveles de redacción y expresión: escrita, oral **(en los podscast o audioblogs)**, visual **(fotoblogs), **y audiovisual **(videoblogs)**.
+- Aportan distintos niveles de redacción y expresión: escrita, oral _(en los podscast o audioblogs)_, visual _(fotoblogs)_,y audiovisual _(videoblogs)_.
 - Permiten valorar nuevas formas de aprender.
 - Son herramientas colaborativas que potencian la cohesión del grupo y la interacción profesor-alumno.
 - Permiten disponer de un espacio para encontrar fuentes documentales (Webgrafías y bibliografías) para el área de conocimiento.
