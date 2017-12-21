@@ -6,7 +6,7 @@
 {% youtube %}https//www.youtube.com/watch?v=m3JgvFhcWc4{% endyoutube %}
 ## Y este otro..
 
-<iframe width="590" height="475" src="https://edpuzzle.com/embed/media/56fd434f21764ba16e4c555e" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="100%" height="475" src="https://edpuzzle.com/embed/media/56fd434f21764ba16e4c555e" frameborder="0" allowfullscreen=""></iframe>
 
 ## ¿Qué te ha parecido?
 

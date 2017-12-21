@@ -6,13 +6,7 @@ A veces en una actividad presencial, se crean fotos y todo el mundo necesita ver
 - Crear un enlace y todo el mundo puede ver las fotos
 - O incrustar una imagen del álbum que tiene un enlace a todas las fotos, en nuestra web o blog, este es un ejemplo embebido:
 
-*** ***
-
 ![](https://c1.staticflickr.com/2/1461/25039648516_327670c82c_z.jpg)
-<script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8" type="text/javascript"></script>
-
-
-
 
 ## ¿Cómo se hace flickr?
 
@@ -20,15 +14,13 @@ A veces en una actividad presencial, se crean fotos y todo el mundo necesita ver
 
 2.- Creas un Album
 
-![](img/Screenshot_(1).png)
+![](img/crearAlbumFlickr.png)
 
 3.- Se abre una ventana para arrastrar las fotos
 
-![](img/Screenshot_(2).png)
+![](img/arrastrarFotosFlickr.png)
 
-## 
-
-4.-.En la barra de menús de Flickr selecciona "**Tus álbumes".**
+4.-.En la barra de menús de Flickr selecciona **"Tus álbumes"**.
 
 ![](img/flickr1.png)
 
