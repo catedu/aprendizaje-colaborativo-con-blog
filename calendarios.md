@@ -1,7 +1,7 @@
 
 # Calendarios
 
-## Son muy útiles, por ejemplo publicar las fechas de exámenes, actividades, organización del centro... [hay muchas herramientas](http://www.xarxatic.com/herramientas-2-0/agendas-y-calendarios/), nosotros recomendamos Google Calendar
+Son muy útiles, por ejemplo publicar las fechas de exámenes, actividades, organización del centro... [hay muchas herramientas](http://www.xarxatic.com/herramientas-2-0/agendas-y-calendarios/), nosotros recomendamos Google Calendar
 
 En las próximas páginas te vamos a mostrar:
 

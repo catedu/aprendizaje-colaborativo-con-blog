@@ -4,6 +4,7 @@
 Issu es un portal de revistas, PDF... el principio es igual que los anteriores:
 
 {% youtube %}https//www.youtube.com/watch?v=ahhVx9osVT8?wmode=transparent{% endyoutube %}
+
 En WordPres.com hay problemas para embeberlo, hay un truco [pincha aquí](Corregir_problema_Issuu_en_wordpress.pdf)
 
 ## Scribd

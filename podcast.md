@@ -7,7 +7,7 @@ Aunque la definición técnica la puedes ver en la [Wikipedia](https://es.wikipe
 
 ## ¿Con qué herramientas?
 
-Hay muchas (Ivoox [tutorial](http://www.educacontic.es/blog/ivoox-la-letra-con-audio-entra) y [otras muchas](http://jr2punto0.blogspot.com.es/search/label/podcast) como por ejemplo [Audioboo y AudioPal](http://www.xarxatic.com/herramientas-2-0/sonido/)) pero la que te recomendamos es [Podomatic](http://jr2punto0.blogspot.com.es/search/label/podcast)
+Hay muchas (Ivoox [tutorial](http://www.educacontic.es/blog/ivoox-la-letra-con-audio-entra) y [otras muchas](http://jr2punto0.blogspot.com.es/search/label/podcast) como por ejemplo [Audioboo y AudioPal](http://www.xarxatic.com/herramientas-2-0/sonido/)) pero la que te recomendamos es [Podomatic](http://jr2punto0.blogspot.com.es/search/label/podcast).p
 
 ## ¿Cómo queda?
 
@@ -17,10 +17,25 @@ Aquí tienes un ejemplo:
 
 ## ¿Cómo se hace?
 
-![](img/Screenshot_(6).png)
-![](img/Screenshot_(7).png)
-![](img/Screenshot_(6).png)
-![](img/Screenshot_(8).png)
-1. Subimos el archivo de audio (Hay que usar un programa de grabación, recomendamos AUDACITY)
-![](img/Screenshot_(5).png)
+* Nos registramos en Sign Up
+
+![](img/podcast1.png)
+
+* Nos podemos registrar por Facebook o por correo electrónico, nosotros recomendamos correo electrónico
+
+![](img/sginupPodcast.png)
+
+* Una vez registrado, entramos en Create Podcast
+
+![](img/podcast1.png)
+
+* Y vemos esta web para subir el archivo de audio
+
+![](img/subirPodcast.png)
+
+* Subimos el archivo de audio (Hay que usar un programa de grabación, recomendamos AUDACITY)
+
+* Una vez subido, (nos insistirá que nos inscribamos a la cuenta no gratuita) podemos encontrar el código embed aquí:
+
+![](img/subirPodcastPodo.png)
 
