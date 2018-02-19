@@ -71,7 +71,7 @@ ____
         * [Formularios Google](formularios_google.md)
         * [Empezamos](empezamos2.md)
         * [Cómo se envía](cmo_se_enva.md)
-        * [Â¿Y si lo pruebas?](y_si_lo_pruebas.md)
+        * [¿Y si lo pruebas?](y_si_lo_pruebas.md)
         * [PlayBuzz](playbuzz.md)
         * [Avanzado: Código Java](avanzado_cdigo_java.md)
         * [Otros integrados en el blog](otros_integrados_en_el_blog.md)
