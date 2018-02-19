@@ -1,5 +1,1 @@
-
-# U4.- Twitter
-
-![](img/twitter-timeline.jpg)
-
+{% include "git+https://github.com/catedu/soportes-informaticos-profesorado.git/twitter.md" %}

@@ -52,7 +52,7 @@ ____
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
     * [Contador de visitas](contador_de_visitas.md)
     * [Historias visuales](historias_visuales.md)
-* [Crí©ditos](crditos.md)
+* [Créditos](crditos.md)
 ____
 ### 3. Aprendizaje colaborativo entre alumnos
 * [Modulo 3:Aprendizaje colaborativo entre alumnos](index2.md)

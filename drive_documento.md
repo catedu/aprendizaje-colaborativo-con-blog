@@ -7,11 +7,9 @@ Este servicio de Google nos falicita pode elaborar un documento entre varios. El
 
 Entra en el siguiente [enlace y puedes etitar el documento](https://docs.google.com/document/d/1dxCIY_J2llOnnnLvnm4gAVjbhbLoexEMpvvUwW0oAkE/edit?usp=sharing) ¡¡si tienes alguna idea ponla!!!
 
-y aquí mismo puedes ver el resultado embebido: **(sí, ya sé lo que piensas, queda pequeño, Google no deja opción)**
+y aquí mismo puedes ver el resultado embebido:
 
-
-
-<iframe width="320" height="240" src="https://docs.google.com/document/d/1dxCIY_J2llOnnnLvnm4gAVjbhbLoexEMpvvUwW0oAkE/pub?embedded=true"></iframe>
+<iframe width="100%" height="800" src="https://docs.google.com/document/d/1dxCIY_J2llOnnnLvnm4gAVjbhbLoexEMpvvUwW0oAkE/pub?embedded=true"></iframe>
 
 ## ¿Cómo se hace?
 

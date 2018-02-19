@@ -23,17 +23,24 @@ Un ejemplo aquí [http://collabedit.com/urn3r](http://collabedit.com/urn3r) pe
 
 Pues así:
 
+<iframe src="http://meetingwords.com/KH3UxPB1aj" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## ¿Como queda en Collabedit?
 
 Pues así:
+
+<iframe src="http://collabedit.com/urn3r" frameborder="0" width="100%" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Una pregunta tonta...
 
 Si MeetingWords y Collabedit no se puede embeber ¿cómo es que aquí esta embebido?
 
-<script type="text/javascript">var feedback65_93text ="Solución por si te pica la curiosidad"</script><input type="button" name="toggle-feedback-65_93" value="Solución por si te pica la curiosidad" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+%accordion%Solución%accordion%
 
-### Retroalimentación
+Porque utiliizando la itequeta *```<iframe>```* puedes embeber cualquier **Sitio web externo** estático, es decir no interactivo. Por ejemplo, el código utilizado para embeber *¿Como queda en MeetingWords?* es:
 
-Pues porque esto** no es un blog**, es un documento html creado en HTML5 con una herramienta llamada Exelearning que permite **visualizar páginas web externas en un marco** con un iDevice llamado **Sitio web externo** es contenido estático, es decir no interactivo y se necesita de un espacio Web para colgarlo con FTP.
+```html
+<iframe src="http://meetingwords.com/KH3UxPB1aj" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><iframe src="http://meetingwords.com/KH3UxPB1aj" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
 
+%/accordion%

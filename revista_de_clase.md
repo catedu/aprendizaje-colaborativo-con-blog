@@ -1,11 +1,7 @@
 
 # REVISTA DE CLASE
 
-REVISTA DE CLASE
-![](img/extrat.gif)
-<td style="text-align: center;">Fig. 3.6 Revista escolar. Fuente:[http://biblioteca17de18.blogspot.com.es/2010/07/nuevo-numero-de-la-revista-escolar.html](http://biblioteca17de18.blogspot.com.es/2010/07/nuevo-numero-de-la-revista-escolar.html)</td>
-
-
+![Fig. 3.6 Revista escolar. Fuente: http://biblioteca17de18.blogspot.com.es](img/extrat.gif)
 
 Como en toda actividad didáctica desarrollada en el aula, nosotros/as los docentes debemos preocuparnos mas por los procesos que desarrollan esa actividad que los resultados en si. La revista o periódico escolar es una propuesta didáctica perfecta para desarrollar estos procesos.
 
@@ -25,7 +21,6 @@ Ejemplos de periódicos escolares:
 
 - [**La isla del mapa perdido**](http://www.calameo.com/read/00003769539b755857303)
 - [**Periodico del CEIP Pablo Sorozabal**](http://periodicoescolardelpablosorozabal.wordpress.com/)
-- [**Catalogo de periódicos escolares de la Asociación de Prensa Juvenil**](http://www.prensajuvenil.org/index.php?q=category/registro/zaragoza)
 - [**El Bolecole**](http://bolecole.blogspot.com.es/)
 - [**Hogareño**](http://nuestroespacioenlared.blogspot.com.es/search/label/HOGARE%C3%91O)
 

@@ -18,9 +18,7 @@ Ejemplo En el blog pondríamos Entra en este enlace [https://b.socrative.com/l
 
 Cuando finalicen la encuesta, entras como profesor, y haces una captura de pantalla de los resultados:
 
-![](img/Screenshot_(18).png)
-
-
+![](img/Screenshot_18.png)
 
 Inconveniente: NO SE ACTUALIZA, porque no está embebido, lo anterior es una imagen, una captura, si has hecho la encuesta, no sale tu resultado.
 
