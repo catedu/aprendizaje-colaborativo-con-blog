@@ -5,13 +5,9 @@ Una forma cómoda para compartir archivos con los alumnos de forma cooperativa e
 
 ## Un ejemplo de artículo:
 
-
-
 Tienes que descargar [este ejercicio sencillo de inglés](EjercicioSimple.docx) (docx - 10.46 [EN ESTA CARPETA DRIVE ](https://drive.google.com/drive/folders/0B3FoIk-apny0VHc5SnVmOVdGSWs?usp=sharing), CREA UNA CARPETA CON TU NOMBRE Y LO GRABAS AHÍ.
 
-**Por cierto si te ha gustado lo de bloquear campos en Word es muy fácil, [mira estos sencillos apuntes de dos hojas](bloqueoword.doc) (doc - 203 <abbr lang="en" title="KiloBytes">KB</abbr>).**
-
-
+*Por cierto si te ha gustado lo de bloquear campos en Word es muy fácil, [mira estos sencillos apuntes de dos hojas](bloqueoword.doc) (doc - 203 <abbr lang="en" title="KiloBytes">KB</abbr>).*
 
 ## ¿qué pega tiene?
 

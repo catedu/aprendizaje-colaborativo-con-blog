@@ -18,12 +18,3 @@ En una entrada, podemos añadir objetos, en el siguiente botón
 Y luego en el siguiente diálogo podemos subir el archivo que queramos:
 
 ![](img/Seleccion_019.png)
-
-## En Arablogs
-
-En teoría el editor permite que descarguemos archivos, pero ultimamente (Abril 16) Arablogs está teniendo problemas en el uso de esta opción, además el tamaño máximo permitido en todo tu blog son 5M incluido las imágenes, luego es mejor gastarlas en imágenes. 
-
-Si se te agotan los 5M puedes pedir a CATEDU una ampliación.
-
-![](img/Seleccion_016.png)
-

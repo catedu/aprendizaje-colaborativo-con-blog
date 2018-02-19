@@ -3,7 +3,7 @@
 
 La transferencia de archivos puede convertirse como actividad cooperativa. Aunque es una comunicación uno a uno 1-1, si el receptor es **un grupo** que trabajan en **un equipo**, puede ser una actividad colaborativa.
 
-Red local no
+### Red local no
 
 El blog permite comunicarse a través de internet, pero si vas a hacer transferencia de archivos sólo en el centro, sin salir de este entorno, son ficheros muy grandes, e Internet no va muy rápido en tu centro, entonces te recomendamos que uses otras técnicas de red local, como compartir carpetas o [Intranet](http://catedu.es/intranetypupitre/)
 
@@ -25,7 +25,10 @@ Otra opción es colgar en el blog una actividad de que sean ellos que realicen u
 
 **El grupo con el archivo local**
 
-Siempre hay que pensar que el grupo puede reunirse físicamente para realizar el trabajo, o en clase, o en casa si hay posibilidad de que los alumnos pueden reunirse. Si no es el caso, lo mejor es utilizar documentos compartidos on-line. Esto lo veremos en la [Unidad 2 Documentos](u2_documentos.html)
+Siempre hay que pensar que el grupo puede reunirse físicamente para realizar el trabajo, o en clase, o en casa si hay posibilidad de que los alumnos pueden reunirse. Si no es el caso, lo mejor es utilizar documentos compartidos on-line. Esto lo veremos en la [Unidad 2 Documentos](u2_documentos.md)
 
 ![](img/Sin_titulo_9.gif)
 
+![](img/arrow-34285_960_720.png)
+
+![](img/odc.jpg)

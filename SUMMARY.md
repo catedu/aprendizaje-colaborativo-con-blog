@@ -93,11 +93,11 @@ ____
         * [Avanzado](avanzado.md)
         * [Almacenamiento de archivos en la nube](almacenamiento_de_archivos_en_la_nube.md)
         * [Profesor-&gt;Alumno](profesoralumno.md)
-        * [A traví©s de la nube](a_travs_de_la_nube.md)
+        * [A través de la nube](a_travs_de_la_nube.md)
         * [A través del artículo](a_travs_del_artculo.md)
         * [Profesor&lt;-Alumno](profesoralumno2.md)
     * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
-* [Crí©ditos](crditos2.md)
+* [Créditos](crditos2.md)
 ____
 ### 4. Mi blog es un aprendizaje colaborativo en mi aula
 * [Modulo 4: Propuesta colaborativa:Orientaciones](index3.md)
@@ -110,4 +110,4 @@ ____
     * [Recursos necesarios](recursos_necesarios.md)
     * [Evaluación](evaluacin.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
-* [Crí©ditos](crditos3.md)
+* [Créditos](crditos3.md)
