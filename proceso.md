@@ -1,9 +1,6 @@
 
 # Proceso
-![](img/trabajo-en-equipo1-630x520.jpg)
-<td style="text-align: center;">Fig. 4.5 Fuente:[http://www.iniciativamexico.org/blog/mejora-tu-trabajo-en-equipo/](http://www.iniciativamexico.org/blog/mejora-tu-trabajo-en-equipo/)</td>
-
-
+![Fig. 4.5 Fuente: http://www.iniciativamexico.org/blog/](img/trabajo-en-equipo1-630x520.jpg)
 
 Una vez tomada la decisión de organizar o participar en un proyecto colaborativo hay que organizar el trabajo de forma que sea rentable didácticamente.
 

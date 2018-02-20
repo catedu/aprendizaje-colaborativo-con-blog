@@ -102,7 +102,7 @@ ____
 ### 4. Mi blog es un aprendizaje colaborativo en mi aula
 * [Modulo 4: Propuesta colaborativa:Orientaciones](index3.md)
 * [Contenidos: U.1:Orientaciones](contenidos_u1orientaciones.md)
-    * [Â¿Donde nos metemos?](donde_nos_metemos.md)
+    * [¿Donde nos metemos?](donde_nos_metemos.md)
     * [Modo de participación](modo_de_participacin.md)
     * [Actividades](actividades.md)
     * [Proceso](proceso.md)

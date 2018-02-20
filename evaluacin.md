@@ -1,9 +1,6 @@
 
 # Evaluación
-![](img/recursos-humanos-cursos-confianza.1.jpg)
-<td style="text-align: center;">Fig. 4.8 Fuente:[http://trabajoenequipoescolar.blogspot.com.es/2010_05_01_archive.html](http://trabajoenequipoescolar.blogspot.com.es/2010_05_01_archive.html)</td>
-
-
+![Fig. 4.8 Fuente: http://trabajoenequipoescolar.blogspot.com.es/](img/recursos-humanos-cursos-confianza.1.jpg)
 
 El conocimiento inicial de los criterios de evaluación es un elemento de carácter motivador y orientador de cualquier actividad, ademas de ser un elemento esencial y muy importante en el desarrollo de cualquier proyecto colaborativo. Incluso la creación de una rúbrica desde el principio; que hasta puede ser negociada, y servirá de apoyo al desarrollo de las tareas.
 
@@ -27,15 +24,9 @@ En todo proyecto colaborativo, en el que las TIC son protagonistas, la evaluaci�
 - Evaluación formativa: se trata de la evaluación que se realiza al finalizar cada tarea de aprendizaje y tiene por objetivo informar de los logros obtenidos.
 - Evaluación sumativa: es aquella que pretende constatar si se han logrado los objetivos o condiciones supuestamente deseables en un elemento o situación educativa. Es lo que habitualmente llamamos"evaluación tradicional".
 
-
-
-
-
 ## Actividad
 
 Esta actividad de autoevaluación, pretende ser un ejercicio de reflexión y análisis de un caso practico.
 
 Mediante este blog, ["Construyendo historias"](http://proyectoconstruyendohistorias.blogspot.com.es/), se trata de que identifiquéis todos los elementos necesarios para catalogar a esta experiencia didáctica como proyecto colaborativo. Pensad sobre su proceso de realización, protagonistas, actividades, evaluación, roles de los alumnos/as, recursos&hellip;Identificad lo propuesto en este modulo con esta interesante iniciativa.
-![](img/201103BlogProyectoConstruyendoHistorias.JPG)
-<td style="text-align: center;">Fig. 4.9 Fuente:[http://proyectoconstruyendohistorias.blogspot.com.es/](http://proyectoconstruyendohistorias.blogspot.com.es/)</td>
-
+![Fig. 4.9 Fuente: http://proyectoconstruyendohistorias.blogspot.com.es/](img/201103BlogProyectoConstruyendoHistorias.JPG)

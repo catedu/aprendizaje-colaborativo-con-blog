@@ -16,10 +16,3 @@ Presentación muy interesante, de Maru Domenech, profesora de Lengua y Literatur
 Visitando estos enlaces podéis añadir más información a la ya añadida. Son lecturas muy recomendables,variadas e interesantes acerca de todo lo visto hasta ahora:
 
 - [aprendizaje cooperativo](http://innovacioneducativa.upm.es/guias/Aprendizaje_coop.pdf)
-![](http://127.0.0.1:51236/ampliacioncontenidosparaM4/resources/cooperativo.jpg)
-|Fig. 3.16 Aprendizaje cooperativo 
-
- 
-
- 
-
