@@ -1,13 +1,8 @@
-
 # Créditos
 
 ## Autoría
 
 Diego Arroyo Murillo
 
-**&copy; Gobierno de Aragón**
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes\_creditos.md" %}
 
-**Materiales cofinanciados por Fondo Social Europeo**
-![](img/FSE_grande_fondo_blanco.jpg)
-
-![](img/Educacion_color.gif)
