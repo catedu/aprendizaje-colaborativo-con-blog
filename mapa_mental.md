@@ -99,7 +99,11 @@ Por ejemplo en **Popplet**: se obtiene el código embed así
 
 ## ¿Cómo queda embebido en Mind42?
 
+Clica [aquí](http://mind42.com/mindmap/56f17e1d-5ac0-4430-8d0d-0cbad7964cd1). El código embebido funcionará en tu blog. Aquí no se incluye porque da problemas al exportar este libro a pdf.
+
+<!--
 <iframe width="640" height="480" frameborder="0" src="http://mind42.com/mindmap/56f17e1d-5ac0-4430-8d0d-0cbad7964cd1?rel=embed"></iframe>
+-->
 
 ## ¿Cómo queda sin embeber Mind42?
 

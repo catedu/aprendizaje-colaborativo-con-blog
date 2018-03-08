@@ -54,4 +54,8 @@ Tenemos que utilizar, no el código embed normal, sino el específico:
 
 ## Ejemplo de la Opción B con Emaze
 
+Clica [aquí](https://app.emaze.com/@AFFWTLZW/mbot-kit-robotica-educativa-catedu). El código embebido funcionará en tu blog. Aquí no se incluye porque da problemas al exportar este libro a pdf.
+
+```html
 <iframe src="https://app.emaze.com/@AFFWTLZW/mbot-kit-robotica-educativa-catedu" width="100%" height="540px" seamless webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+```
