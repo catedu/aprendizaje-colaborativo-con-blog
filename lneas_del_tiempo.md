@@ -7,7 +7,9 @@ Es una representación de conceptos o eventos que están separados por el tiempo
 
 Hay muchos servicios, pero se están cerrando muchas y cada vez hay menos oferta, [Preceden](http://www.preceden.com/) es otro servicio de líneas de tiempo con el que se pueden hacer cosas como ésta: 
 
-HISTÓRICO CATEDU:<iframe width="100%" height="320" src="https://www.preceden.com/timelines/316285/embed" frameborder="0">
+HISTÓRICO CATEDU:
+
+<iframe width="100%" height="320" src="https://www.preceden.com/timelines/316285/embed" frameborder="0">
 [Preceden Timeline Maker](https://www.preceden.com)</iframe>El código EMBED esta muy bien señalizado abajo a la derecha:
 
 ![](img/img0.png)
