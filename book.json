@@ -1,8 +1,20 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
+    "language": "es",
+    "variables": {
+        "title": "Aprendizaje colaborativo con blog",
+        "author": "Diego Arroyo Murillo (2014)",
+        "collaborators": [
+            { "name": "Javier Quintana", "edited": "2016" }
+        ]
+    },
     "pluginsConfig": {
         "image-captions": {
             "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
         }
     }
 }

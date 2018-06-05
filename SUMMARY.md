@@ -23,8 +23,10 @@ ____
         * [Categorí­as, etiquetas y publicar](categoras_etiquetas_y_publicar.md)
         * [Avanzando](avanzando.md)
 * [Ejemplos](ejemplos.md)
+<!--
 * [Créditos 2013](crditos_2013.md)
 * [Créditos 2016](crditos_2016.md)
+-->
 ____
 ### 2. Aumentar y mejorar nuestros contenidos
 * [Modulo 2: Aumentar y mejorar nuestros contenidos](index1.md)
@@ -52,7 +54,9 @@ ____
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
     * [Contador de visitas](contador_de_visitas.md)
     * [Historias visuales](historias_visuales.md)
+<!--
 * [Créditos](crditos.md)
+-->
 ____
 ### 3. Aprendizaje colaborativo entre alumnos
 * [Modulo 3:Aprendizaje colaborativo entre alumnos](index2.md)
@@ -97,7 +101,8 @@ ____
         * [A través del artículo](a_travs_del_artculo.md)
         * [Profesor&lt;-Alumno](profesoralumno2.md)
     * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
-* [Créditos](crditos2.md)
+<!--* [Créditos](crditos2.md)
+-->
 ____
 ### 4. Mi blog es un aprendizaje colaborativo en mi aula
 * [Modulo 4: Propuesta colaborativa:Orientaciones](index3.md)
@@ -110,4 +115,5 @@ ____
     * [Recursos necesarios](recursos_necesarios.md)
     * [Evaluación](evaluacin.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
+____
 * [Créditos](crditos3.md)
