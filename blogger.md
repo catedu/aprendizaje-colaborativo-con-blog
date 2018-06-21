@@ -1,7 +1,7 @@
 
 # Blogger
 
-Aquí tienes un sencillo video tutorial de cómo crear tu blog en Blogger en formato[ PDF si lo ves mal](http://aularagon.catedu.es/materialesaularagon2013/blogs/videos/CrearBlogger.pdf)
+Aquí tienes una sencilla presentación de cómo crear tu blog en Blogger en formato[ PDF si lo ves mal](http://aularagon.catedu.es/materialesaularagon2013/blogs/videos/CrearBlogger.pdf)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPvDI0kU7Q8AChFoS1W7n-uuVW6gUj0hMblhdGmygPSUHdv__cf9-fmK-HyxKxdPKo-niGk17I85Gl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="829" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
