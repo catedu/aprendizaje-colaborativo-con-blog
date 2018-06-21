@@ -1,7 +1,7 @@
 
 # Wordpress
 
-## Opción 1: 000webhost
+## Instalación en 000webhost
 
 Con esta opción se podrán probar todos los plugins que se quieran y ofrece una total libertad y versatilidad por lo que es ña opción recomendada para este curso. Notar que este servicio es gratuito y en la zona de administración siempre hay que esperar varios segundos hasta que las operaciones se terminen, por lo tanto habrá que tener un poco de paciencia con la velocidad de carga de las páginas.
 
@@ -31,7 +31,7 @@ _
 Menú de usuario - Mis sitios web - Ajustes (del sitio web) - General - Website sleeping time frame
 ```
 
-#### OPCION 1 - AUTOMÁTICA \(rápida y fácil\)
+#### OPCION RECOMENDADA EN 000webhost - AUTOMÁTICA \(rápida y fácil\)
 
 Clic en el botón de la barra superior “Crear sitio web” y clic en "Instalar ahora" en “Build Wordpress Website”
 
@@ -59,7 +59,7 @@ Es decir, es la dirección principal de tu sitio web seguido por /wp-admin/ o po
 
 La dirección web pública de tu blog será [https://cursowpaularagon.000webhostapp.com](https://cursowpaularagon.000webhostapp.com) \(notar que deberás cambiar cursowpaularagon pro el nombre de tu sitio web\).
 
-#### OPCION 2 - MANUAL \(más lenta y costosa\)
+#### Para saber más: OPCIÓN - MANUAL NO RECOMENDADA EN ESTE CURSO\(más lenta y costosa\) (Contenido opcional en este curso)
 
 Esta opción es más laboriosa, pero con mayor control y aprendizaje sobre la instalación de un sitio Wordpress desde cero. La idea de los pasos a realizar son similares en caso de instalar Wordpress manualmente en otro servidor. A modo de visión general, y teniendo en cuenta que este proceso puede realizarse de diversas formas, los pasos a realizar son:
 
@@ -68,7 +68,7 @@ Esta opción es más laboriosa, pero con mayor control y aprendizaje sobre la in
 3. Subir el código fuente al servidor de hosting
 4. Modificar la configuración de Wordpress para que se conecte con la Base de Datos
 
-
+Si te interesa puedes ver los detalles en este apartado del curso ["Atrévete con Wordpress"](https://catedu.gitbooks.io/atrevete-con-wordpress/content/empezando-con-wordpress/instalar-wordpress-en-000webhost.html)
 
 
 Para crear tu blog en CATEDU
@@ -78,12 +78,12 @@ Para crear tu blog en CATEDU
 * Rellenar los datos
 * Catedu te enviará por email el usuario y la contraseña
 
-## ¡Atención!
+## Wordpress en CATEDU
 
 Actualmente, **CATEDU ofrece a profesores y centros educativos aragoneses la posibilidad de tener su propia instalación de Wordpress**, alojada en los servidores de AST. 
 
 - **Cada centro educativo** podrá contar con un Wordpress instalado exclusivamente para ellos. 
-- **Cada profesor** podrá tener un Wordpress pero éste estará alojado en el [Wordpress multisitio de CATEDU](http://wp.catedu.es/) y contará con las limitaciones propias de dicho multisitio.
+- **Cada profesor** podrá tener un Wordpress pero éste estará alojado en el [Wordpress multisitio de CATEDU](http://wp.catedu.es/) y **contará con las limitaciones propias de dicho multisitio**.
 
 Los plugins de los WP de CATEDU en los dos casos estarán limitados por problemas de seguridad y serán sólo los instalados por CATEDU
 
@@ -107,9 +107,11 @@ No te olvides de :
 
 - [**Menús, menús y menús en WP**](http://facilytic.catedu.es/2013/06/11/menus-menus-y-menus-wordpress/)
 
-Ventajas para su uso:
+## Conclusiones
 
-- ** CATEDU** ofrece [este servicio ](http://www.catedu.es/webcatedu/index.php/buenas-practicas/158-servicios-de-catedu)y es el que recomienda para su uso como blog y página web de centros. Una sola herramienta, ¡varios usos!
+
+- [000webhost](https://es.000webhost.com/) permite total libertad 
+- **CATEDU** ofrece este servicio y es el que recomienda para su uso como blog y página web de centros. Una sola herramienta, ¡varios usos!
 - Hay más de 100 plantillas o themes donde escoger.
 - **WordPress.com** (no aconsejado) está diseñado para personas que quieren crear un blog de forma rápida y sencilla, sin tener que preocuparse por los problemas de alojamiento y personalización, pero da problemas de seguridad, y no permite por ejemplo embeber muchos de los servicios que se piden en el Módulo 2 (no permite por ejemplo cualquier código que tenga iframe [ver](https://en.support.wordpress.com/code/)).
 - Alojamiento web gratuito.
