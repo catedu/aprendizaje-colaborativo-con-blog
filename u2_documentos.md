@@ -4,8 +4,9 @@ Aquí si que vamos a trabajar en Grupo: **en el mismo documento **OJO! la anteri
 
 ## DISEÑA adecuadamente tu artículo colaborativo
 No vale con poner el documento compartido y ya está!! **NO**: TIENE AL MENOS 3 PARTES:
+
 >1. TITULO DEL ARTÍCULO Por un título claro en tu artículo
->1. ESTIMULACIÓN Al documento compartido Mira este vídeo, esta página... y reflexiona, debate a tu compañero, escribe tu idea, ... en este documento:
+>1. CONTENIDO para ALENTAR, ANIMAR Al documento compartido: "_Mira este vídeo, esta página... y reflexiona, debate a tu compañero, escribe tu idea, ... en este documento_": Utiliza lo aprendido en el módulo anterior embebiendo contenidos, aprovecha el potencial de tu blog.
 >1. DOCUMENTO COMPARTIDO Padlet, documento google, ... etc..
 
 ## ¿Cómo que OJO?
