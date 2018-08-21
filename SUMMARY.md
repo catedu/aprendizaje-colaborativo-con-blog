@@ -40,7 +40,7 @@
     * [Podcast](podcast.md)
   * [U3.- Documentos](u3_documentos.md)
     * [Presentaciones](presentaciones.md)
-    * [Scribd Issu](issu.md)
+    * [Libros](issu.md)
     * [Lí­neas del tiempo](lneas_del_tiempo.md)
     * [Mapa mental](mapa_mental.md)
     * [Calameo](calameo.md)
