@@ -43,7 +43,7 @@
     * [Libros](issu.md)
     * [Lí­neas del tiempo](lneas_del_tiempo.md)
     * [Mapa mental](mapa_mental.md)
-    * [Calameo](calameo.md)
+
     * [Nubes de palabras](nubes_de_palabras.md)
     * [Nube de etiquetas](nube_de_etiquetas.md)
     * [Calendarios](calendarios.md)
@@ -116,4 +116,6 @@
 ---
 
 * [Créditos](crditos3.md)
+
+
 
