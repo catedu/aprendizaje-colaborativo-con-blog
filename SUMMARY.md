@@ -38,12 +38,12 @@
     * [Fotos Google](fotos_google.md)
     * [Fotos PhotoSnack](fotos_photosnack.md)
     * [Podcast](podcast.md)
+    * [Playbuzz](playbuzz.md)
   * [U3.- Documentos](u3_documentos.md)
     * [Presentaciones](presentaciones.md)
     * [Libros](issu.md)
     * [Lí­neas del tiempo](lneas_del_tiempo.md)
     * [Mapa mental](mapa_mental.md)
-
     * [Nubes de palabras](nubes_de_palabras.md)
     * [Nube de etiquetas](nube_de_etiquetas.md)
     * [Calendarios](calendarios.md)
@@ -116,6 +116,4 @@
 ---
 
 * [Créditos](crditos3.md)
-
-
 
