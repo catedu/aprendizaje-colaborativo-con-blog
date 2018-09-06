@@ -19,7 +19,7 @@ Si hemos realizado una presentación online en Drive, lo podemos embeber, dando 
 
 ![](/assets/presentacion1.jpeg)
 
-Y luego en **Insertar** - **Publicar** y nos enseña el código embed para ponerlo en nuestro artículo (antes pide una confirmación si estamos seguros pues la presentación queda totalmente visible al público.
+Y luego en **Insertar** - **Publicar** y nos enseña el código embed para ponerlo en nuestro artículo _(antes pide una confirmación si estamos seguros pues la presentación queda totalmente visible al público)_.
 
 ![](/assets/presentacion2.jpeg)
 
