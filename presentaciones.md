@@ -9,6 +9,7 @@ Hay dos posibilidades:
     * Hay numerosos portales: por ejemplo [Slideshare](http://es.slideshare.net/)
 
 * **Opción B**: No tenemos la presentación queremos una herramienta Online para hacer nuestra presentación y a la vez que nos permita embeberla en nuestro blog: 
+    * Una presentación hecha en **Google Drive**
     * Hay muchos portales, donde las presentaciones quedan muy llamativas. [Emaze](https://www.emaze.com/es/) [Slides](https://slides.com/) [Prezzi](https://prezi.com/)
     * Al final de esta página puedes encontrar una presentación con Emaze embebida
     * Prezi tiene una licencia educativa ([tutorial](http://recursostic.educacion.es/observatorio/web/gl/internet/recursos-online/970-prezi))
@@ -16,6 +17,20 @@ Hay dos posibilidades:
 
 
 La segunda opción no lo trataremos pues se escapa de las intenciones de este curso, pero por supuesto puedes usarlo en vez de la primera.
+
+##Google Drive
+
+Si hemos realizado una presentación online en Drive, lo podemos embeber, dando a Publicar:
+
+![](/assets/presentacion1.jpeg)
+
+Y luego en **Insertar** - **Publicar** y nos enseña el código embed para ponerlo en nuestro artículo (antes pide una confirmación si estamos seguros pues la presentación queda totalmente visible al público.
+
+![](/assets/presentacion2.jpeg)
+
+Aquí tienes cómo queda:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvFa7L7i2sjaZZetRXJCFBiscv7d-p3cm5eR0D-6DeZ7I8icCvzG2SR4qEQ8tL_5wjJxwMczqJ9ZEk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## **Slideshare** 
 
