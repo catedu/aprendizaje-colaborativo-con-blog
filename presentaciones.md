@@ -18,7 +18,7 @@ Hay dos posibilidades:
 
 La segunda opción no lo trataremos pues se escapa de las intenciones de este curso, pero por supuesto puedes usarlo en vez de la primera.
 
-##Google Drive
+##Presentación Google Drive (recomendado)
 
 Si hemos realizado una presentación online en Drive, lo podemos embeber, dando a Publicar:
 
