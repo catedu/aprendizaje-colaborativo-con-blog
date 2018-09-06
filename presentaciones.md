@@ -7,16 +7,11 @@ Hay dos posibilidades:
 
 * **Opción A:** Tenemos la presentación hecha (con Power Point, Impress..), y necesitamos un portal para colgar la presentación y embeberla en nuestro blog: 
     * Hay numerosos portales: por ejemplo [Slideshare](http://es.slideshare.net/)
+    * En Google Drive podemos subir nuestra presentación
 
 * **Opción B**: No tenemos la presentación queremos una herramienta Online para hacer nuestra presentación y a la vez que nos permita embeberla en nuestro blog: 
     * Una presentación hecha en **Google Drive**
-    * Hay muchos portales, donde las presentaciones quedan muy llamativas. [Emaze](https://www.emaze.com/es/) [Slides](https://slides.com/) [Prezzi](https://prezi.com/)
-    * Al final de esta página puedes encontrar una presentación con Emaze embebida
-    * Prezi tiene una licencia educativa ([tutorial](http://recursostic.educacion.es/observatorio/web/gl/internet/recursos-online/970-prezi))
-
-
-
-La segunda opción no lo trataremos pues se escapa de las intenciones de este curso, pero por supuesto puedes usarlo en vez de la primera.
+    * Portales donde las presentaciones quedan muy llamativas. [Emaze](https://www.emaze.com/es/) [Slides](https://slides.com/) [Prezzi](https://prezi.com/). Al final de esta página puedes encontrar una presentación con Emaze embebida, también Prezi tiene una licencia educativa ([tutorial](http://recursostic.educacion.es/observatorio/web/gl/internet/recursos-online/970-prezi)) pero estas opciones no lo trataremos pues se escapa de las intenciones de este curso, pero por supuesto puedes usarlo en vez de la primera.
 
 ##Presentación Google Drive (recomendado)
 
