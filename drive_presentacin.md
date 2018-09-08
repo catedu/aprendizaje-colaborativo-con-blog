@@ -1,7 +1,7 @@
 
 # Drive Presentación
 
-## ¿Cómo Tiene que quedar tu artículo colaborativo de Drive-Presentación?
+## ¿Cómo tiene que quedar tu artículo colaborativo de Drive-Presentación?
 
 Aquí tienes [en este enlace ](https://docs.google.com/presentation/d/10DrBTJqoabaxunjP4a2CglpW4c62wslCmJwFqFFG-vI/edit?usp=sharing)la siguiente presentación para que puedas editarla y añadir fotos o lo que quieras ¡¡Comparte !! ¡¡Atrévete!!
 
