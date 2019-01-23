@@ -5,8 +5,6 @@
 
 Teniendo Dropbox, es muy cómodo crear un enlace a un archivo tuyo, es también una buena opción en tus envios de correos electrónicos en el caso de archivos que no se pueden adjuntar porque son muy pesados.
 
-Por ejemplo [esto es una prueba ](https://www.dropbox.com/s/cap9qe04klo1l9z/Prueba?dl=0)de un archivo en mi Dropbox personal que si quieres te lo descargas.
-
 Para ver cómo se hace [consulta esta página](http://www.catedu.es/aularagonpowerpoint/TEMATICOS/Dropbox/publicar.html)
 
 ## Publicar a través de la nube con Drive
