@@ -93,11 +93,11 @@
     * [Compartir carpeta Drive](compartir_carpeta_drive.md)
     * [Como se comparte carpeta en Drive](como_se_comparte_carpeta_en_drive.md)
     * [Avanzado](avanzado.md)
-    * [Almacenamiento de archivos en la nube](almacenamiento_de_archivos_en_la_nube.md)
-    * [Profesor-&gt;Alumno](profesoralumno.md)
-    * [A través de la nube](a_travs_de_la_nube.md)
-    * [A través del artículo](a_travs_del_artculo.md)
-    * [Profesor&lt;-Alumno](profesoralumno2.md)
+        * [Almacenamiento de archivos en la nube](almacenamiento_de_archivos_en_la_nube.md)
+      * [Profesor-&gt;Alumno](profesoralumno.md)
+      * [A través de la nube](a_travs_de_la_nube.md)
+      * [A través del artículo](a_travs_del_artculo.md)
+      * [Profesor&lt;-Alumno](profesoralumno2.md)
   * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
 
 ## 4. Mi blog es un aprendizaje colaborativo en mi aula
