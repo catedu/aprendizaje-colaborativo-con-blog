@@ -16,15 +16,13 @@
             "hline": true,
             "filename": "./FOOTER.md"
         },
-        "pluginsConfig": {
-            "edit-link": {
-                "base": "https://github.com/catedu/aprendizaje-colaborativo-con-blog/edit/master",
-                "label": "Edita esta página"
-            },
-            "githubcontributors": {
-                "githubOwner": "catedu",
-                "githubRepository": "aprendizaje-colaborativo-con-blog"
-            }
+        "edit-link": {
+            "base": "https://github.com/catedu/aprendizaje-colaborativo-con-blog/edit/master",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "aprendizaje-colaborativo-con-blog"
         }
     }
 }
