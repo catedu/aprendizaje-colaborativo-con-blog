@@ -30,7 +30,7 @@ Existen varias páginas para insertar preguntas interactivas en los vídeos, [Ed
 
 ![](/assets/edpuzzle5.jpg)
 
-6.- Elegimos si queremos insertar una nota de audio, una pregunta abierta, una nota escrita... aquí por ejemplo se inserta una pregunta de tipo test:
+6.- Elegimos si queremos insertar una nota de audio, una pregunta abierta, una nota escrita... aquí por ejemplo se inserta una pregunta de tipo test: ¡¡espero que sepas cual es la respuesta correcta !!!
 
 ![](/assets/edpuzzle6.jpg)
 
