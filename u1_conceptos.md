@@ -7,7 +7,7 @@
 
 **Introducción**
 
-En el informe que la representación de Suecia aportó al Seminario de la OCDE en Septiembre de 2001, celebrado en Santander, afirmó que _"El enseñante funciona más como asesor y animador, menos como conferenciante. La enseñanza es cada vez más individualizada y el abandono del modelo magistral &ndash; que se dirige a toda la clase- se ha acelerado"_. En línea similar, la representación de los Países Bajos, refiriéndose al nuevo rol del docente ante la integración de las TIC, afirmó: _"Se aprecia una evolución lenta, pero constante, de la educación tradicional centrada en el docente hacia ambientes de aprendizaje más ricos y diferenciados en los cuales, el rol del docente está asumiendo el perfil de apoyo. La integración de las TIC en los centros educativos estimula esta transformación"_
+Nos remontamos al informe que la representación de Suecia aportó al Seminario de la OCDE en Septiembre de 2001 celebrado en Santander, donde afirmó: _"El enseñante funciona más como asesor y animador, menos como conferenciante. La enseñanza es cada vez más individualizada y el abandono del modelo magistral &ndash; que se dirige a toda la clase- se ha acelerado"_. En línea similar, la representación de los Países Bajos, refiriéndose al nuevo rol del docente ante la integración de las TIC, afirmó: _"Se aprecia una evolución lenta, pero constante, de la educación tradicional centrada en el docente hacia ambientes de aprendizaje más ricos y diferenciados en los cuales, el rol del docente está asumiendo el perfil de apoyo. La integración de las TIC en los centros educativos estimula esta transformación"_
 
 
 
@@ -31,7 +31,7 @@ Un blog es una página web en la que uno o varios autores publican artículos co
 
 ## Importante
 
-El uso del blog esta muy extendido a lo largo y ancho de la red de redes, como profesionales de la educación, debemos atender a su justificación en nuestra aula, es muy importante, detenernos a pensar que finalidad queremos darle a nuestra ventana al exterior, para ello estudiaremos a continuación los diferentes tipos de blogs existentes, atendiendo a su tipología.
+El uso del blog esta muy extendido a lo largo y ancho de la red de redes, como profesionales de la educación, debemos atender a su justificación en nuestra aula, es muy importante, detenernos a pensar que **finalidad** queremos darle a nuestra ventana al exterior, para ello estudiaremos a continuación los diferentes tipos de blogs existentes, atendiendo a su tipología.
 
 ## Actividad
 

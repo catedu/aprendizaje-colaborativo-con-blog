@@ -37,7 +37,7 @@ Un ejemplo de este tipo de blogs lo podemos encontrar en **[http://www.catedu.e
 
 ![1.5 Diego Arroyo](img/blog_tu.jpg) 
 
-Los blogs sirven como lugar de exposición de lo que se va trabajando, instrumento de comunicación con las familias y lugar donde se ponen enlaces y materiales de interés. También, por supuesto, sirven de instrumento de motivación para las niñas y niños y para que las familias aumenten su motivación por la vida escolar de sus hijos. (**Ana Isabel Otero**, III Congreso Educared). Un ejemplo puede ser el blog:[**http://elclubdelpersonajemisterioso.blogspot.com.es/**](http://elclubdelpersonajemisterioso.blogspot.com.es/)
+Los blogs sirven como lugar de exposición de lo que se va trabajando, instrumento de comunicación con las familias y lugar donde se ponen enlaces y materiales de interés. También, por supuesto, sirven de instrumento de motivación para las niñas y niños y para que las familias aumenten su motivación por la vida escolar de sus hijos. (**José Alonso**, CEIP Rosales del Canal - Zaragoza). Un ejemplo puede ser el blog: [**https://myenglishplayhouse.blogspot.com/**](https://myenglishplayhouse.blogspot.com/)
 
  
 

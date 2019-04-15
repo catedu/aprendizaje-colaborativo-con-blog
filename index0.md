@@ -17,7 +17,7 @@ Otra necesidad una plataforma de espacio de trabajo, o Aula Virtual, es decir un
 
 ## Objetivos
 
-A lo largo de las dos unidades de este módulo, pretendemos que conozcas, reflexiones y experimentes con esta nueva herramienta, cuya potencialidad, encierra multitud de posibilidades didácticas.
+A lo largo de las dos unidades de este módulo, pretendemos que conozcas, reflexiones y experimentes con esta potencial herramienta que encierra multitud de posibilidades didácticas.
 
 {% youtube %}https//www.youtube.com/watch?v=GzLqUrTu2j4{% endyoutube %}
 
@@ -29,7 +29,7 @@ Los docentes, que integramos las TIC en nuestra práctica habitual, debemos expl
 1. **En el profesional** Compartiendo, colaborando, cooperando y construyendo nuevas didácticas entre colegas.
 1. **Con las familias y comunidad educativa.** Optimizando las relaciones entre todos los miembros de la comunidad; sirviendo de lugar de encuentro y de exposición de lo que se va realizando en el aula. Con todo ello, probablemente no sólo se motivará a los alumnos sino también a sus familias que, de este modo, se implicarán en una nueva forma de participación en la vida escolar.
 
-**La metodología utilizada en las siguientes unidades**, no será la de la exposición magistral, la de “**los apuntes”** que contienen todo el saber del profesor o lo que éste quiere que sepan sus alumnos. Más bien, irá encaminada en la línea de esa nueva función docente de asesor, animador, orientador, apoyo y **propiciador de nuevos aprendizajes que tú debes ir construyendo personalmente.** Para ellos se te facilitarán los enlaces y documentos base.
+**La metodología utilizada en las siguientes unidades**, no será la exposición magistral, ni “**los apuntes”** que contienen todo el saber del profesor o lo que éste quiere que sepan sus alumnos. Más bien, irá encaminada en la línea de esa nueva función docente de asesor, animador, orientador, apoyo y **propiciador de nuevos aprendizajes que tú debes ir construyendo personalmente.** Para ello, se te facilitarán los enlaces y documentos base.
 
  
 
