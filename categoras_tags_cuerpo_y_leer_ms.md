@@ -5,18 +5,18 @@
 
 Todo blog tiene sus categorías, y todo artículo tiene que clasificarse en alguna categoría. **Estructura** bien tu blog, elige bien las categorías.
 
-- Si es una materia, blog del profesor dirigido a los alumnos: Categorías por los temas de la materia en cuestión [[Ejemplo](http://englishjoinsus.blogspot.com.es/)](http://arablogs.catedu.es/blog.php?id_blog=335)
-- Si son diferentes materias, y quieres que el que lo lea los encuentre fácilmente: Por contenidos [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=702)
-- Los alumnos participan junto con el blog de tus contenidos: Ponles categoría a ellos [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=2544)
-- Si no encaja categorías por contenidos, va a ser algo muy dinámico, con contenido muy variado, o es evidente, noticias: No es muy típico, pero se puede utiliza categorías cronológicas [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=1194)
+- Si es una materia, blog del profesor dirigido a los alumnos: Categorías por los temas de la materia en cuestión [[Ejemplo](http://englishjoinsus.blogspot.com.es/)](http://arablogs.catedu.es/blog.php?id_blog=335).
+- Si son diferentes materias, y quieres que el que lo lea los encuentre fácilmente: Por contenidos [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=702).
+- Los alumnos participan junto con el blog de tus contenidos: Ponles categoría a ellos [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=2544).
+- Si no encaja categorías por contenidos, va a ser algo muy dinámico, con contenido muy variado, o es evidente, noticias: No es muy típico, pero se puede utiliza categorías cronológicas [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=1194).
 
 ## Tags
 
-Son las palabras clave, las que facilitan al lector encontrar artículos con esas palabras. Utiliza siempre las mismas, no hagas dos tags diferentes para el mismo concepto **noticia**,** noticias**
+Son las palabras clave, las que facilitan al lector encontrar artículos con esas palabras. Utiliza siempre las mismas, no hagas dos tags diferentes para el mismo concepto **noticia**,** noticias**.
 
-Una nube de Tags facilita encontrar los artículos más interesantes
+Una nube de _tags_ facilita encontrar los artículos más interesantes.
 
-No te pierdas este [ejemplo JR 2.0 en blogger](http://jr2punto0.blogspot.com.es/)
+No te pierdas este [ejemplo JR 2.0 en blogger](http://jr2punto0.blogspot.com.es/).
 
 ## Cuerpo del artículo
 
