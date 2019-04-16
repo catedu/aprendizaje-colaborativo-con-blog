@@ -3,11 +3,11 @@
 
 ## Categorías
 
-Todo blog tiene sus categorías, y todo artículo tiene que clasificarse en alguna categoría. ESTRUCTURA bien tu blog, elige bien las categorías.
+Todo blog tiene sus categorías, y todo artículo tiene que clasificarse en alguna categoría. **Estructura** bien tu blog, elige bien las categorías.
 
-- Si es una materia, blog del profesor dirigido a los alumos: Categorías por los temas de la materia en cuestión [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=335)
-- Si son diferentes materias, y quieres que el que lo lea los encuentre fácilmente: Por contenidos [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=1860#bclb)
-- Los alumnos participan junto con el blog de tus contenidos: Ponles categoría a ellos [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=1845)
+- Si es una materia, blog del profesor dirigido a los alumnos: Categorías por los temas de la materia en cuestión [[Ejemplo](http://englishjoinsus.blogspot.com.es/)](http://arablogs.catedu.es/blog.php?id_blog=335)
+- Si son diferentes materias, y quieres que el que lo lea los encuentre fácilmente: Por contenidos [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=702)
+- Los alumnos participan junto con el blog de tus contenidos: Ponles categoría a ellos [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=2544)
 - Si no encaja categorías por contenidos, va a ser algo muy dinámico, con contenido muy variado, o es evidente, noticias: No es muy típico, pero se puede utiliza categorías cronológicas [Ejemplo](http://arablogs.catedu.es/blog.php?id_blog=1194)
 
 ## Tags
