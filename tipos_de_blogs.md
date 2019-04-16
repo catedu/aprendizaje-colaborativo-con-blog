@@ -48,8 +48,8 @@ Los blogs sirven como lugar de exposición de lo que se va trabajando, instrumen
 
 Sin olvidarnos de aquellos que están orientados al
 
-* ** Diario de autoaprendizaje,**
-* **Expresión libre: oral (podscats), escrita, o audiovisual.**
+* ** Diario de autoaprendizaje**
+* **Expresión libre: oral (podscats), escrita, o audiovisual**
 * ** Diarios de investigación personal **
 
 ## Blogs colectivos

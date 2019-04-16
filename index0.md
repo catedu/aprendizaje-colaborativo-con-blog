@@ -1,6 +1,6 @@
 # Modulo 1: Los blogs
 
-<P ALIGN="justify">_“Imagine por un momento que, de repente, se halla usted enfrente de un ordenador, conectado a Internet, viendo su página Web. No es una página cualquiera: está estructurada de forma temporal, como un cuaderno de bitácora, esos libros en los que los capitanes de barco escriben los sucesos más relevantes del día; las anotaciones se suceden una detrás de otra, con hora y fecha, y tratan temas variados; junto a cada anotación, ve un enlace a través del cual puede leer los comentarios que cada lector de su bitácora ha añadido después de la lectura. Su cuaderno virtual adquiere popularidad y es leído cada mes por miles de personas…_
+_“Imagine por un momento que, de repente, se halla usted enfrente de un ordenador, conectado a Internet, viendo su página Web. No es una página cualquiera: está estructurada de forma temporal, como un cuaderno de bitácora, esos libros en los que los capitanes de barco escriben los sucesos más relevantes del día; las anotaciones se suceden una detrás de otra, con hora y fecha, y tratan temas variados; junto a cada anotación, ve un enlace a través del cual puede leer los comentarios que cada lector de su bitácora ha añadido después de la lectura. Su cuaderno virtual adquiere popularidad y es leído cada mes por miles de personas…_
 
 _Imagine todo esto, y el potencial que encierra. Pues bien, no ha estado soñando, sino que ha recreado en su mente algo que ya existe, y que ha nacido junto a Internet, pero que sólo ahora está adquiriendo un desarrollo y una fama sin precedentes: **el blog**._
 
@@ -43,5 +43,5 @@ A lo largo de las dos unidades que componen este modulo, los objetivos a trabaja
 - Conocer algunos portales educativos que enlazan a blogs de interés didáctico para nuestra intervención docente.
 - Explorar las aplicaciones e implicaciones de los Blogs para la enseñanza
 - Conocer servicios de creación de blogs como Arablogs, Blogger o Word Press
-</P>
+
 
