@@ -48,9 +48,9 @@ Los blogs sirven como lugar de exposición de lo que se va trabajando, instrumen
 
 Sin olvidarnos de aquellos que están orientados al
 
-* ** Diario de autoaprendizaje**
-* **Expresión libre: oral (podscats), escrita, o audiovisual**
-* ** Diarios de investigación personal **
+* ** [Diario de autoaprendizaje](http://cedec.intef.es/los-diarios-de-aprendizaje-una-herramienta-para-reflexionar-sobre-el-propio-aprendizaje/)**
+* **Expresión libre: oral ([podscats](http://recursostic.educacion.es/blogs/malted/index.php/2012/02/16/podcasts-en-el-aula)), escrita, o audiovisual**
+* ** [Diarios de investigación personal ](http://1bathmc201516.blogspot.com/)**
 
 ## Blogs colectivos
 
