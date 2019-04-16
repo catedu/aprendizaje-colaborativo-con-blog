@@ -22,7 +22,6 @@ No te pierdas este [ejemplo JR 2.0 en blogger](http://jr2punto0.blogspot.com.es/
 
 Aquí escribiremos el artículo en sí, pero unos consejos:
 
-Unos consejos :
 
 1. Escribir un artículo en un blog es muy distinto a un artículo en papel. Leer en la pantalla es tedioso, luego: **Contenidos breves y de calidad:**<ol>
     1. **¿Que buscas conseguir?,** ¿Para qué va a servir?, objetivos.
