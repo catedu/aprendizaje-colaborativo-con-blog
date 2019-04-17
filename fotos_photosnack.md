@@ -9,7 +9,5 @@ Photosnack nos gusta pues nos permite subir nuestras fotos, o utilizar las que t
 
 <iframe id="doc_19813" width="600" height="800" src="https://www.scribd.com/embeds/241258358/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-dmVaHLn5im6VhoERRzTV&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7080062794348508" scrolling="no" frameborder="0"></iframe> 
 
-## ¿Cómo queda embebido?
 
-<iframe width="600" height="400" style="border: none;" src="http://files.photosnack.com/iframejs/embed.html?hash=ptmqxw2ep&amp;t=1484375952" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
