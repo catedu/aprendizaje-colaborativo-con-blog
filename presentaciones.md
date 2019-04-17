@@ -36,7 +36,7 @@ Igual que si tenemos un vídeo, lo podemos subir en Youtube para compartirlo. Pu
 
 Otra herramienta es Prezi que permite hacer una presentación Online y además [permite incrustarla](https://docente2punto0.blogspot.com/2018/07/como-insertar-tu-prezi-next-en-un-blog.html).
 
-El mecanismo es análogo En [esta página](http://es.slideshare.net/anarh/insertar-presentaciones-de-slideshare-en-nuestro-blog-28462888) enseña como incluir presentaciones de slideshare.
+El mecanismo es análogo en [esta página](http://es.slideshare.net/anarh/insertar-presentaciones-de-slideshare-en-nuestro-blog-28462888) , donde enseña como incluir presentaciones de slideshare.
 
 También dispones de estos manuales y tutoriales:
 
