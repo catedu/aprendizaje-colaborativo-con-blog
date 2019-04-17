@@ -3,13 +3,13 @@
 A veces en una actividad presencial, se crean fotos y todo el mundo necesita verlas, **FLICKR  es de Yahoo **y te permite :
 
 * Crear un enlace y todo el mundo puede ver las fotos
-* O incrustar una imagen del álbum que tiene un enlace a todas las fotos, en nuestra web o blog, este es un ejemplo embebido:
+* Incrustar una imagen del álbum que tiene un enlace a todas las fotos, en nuestra web o blog, este es un ejemplo embebido:
 
 ![](https://c1.staticflickr.com/2/1461/25039648516_327670c82c_z.jpg)
 
 ## ¿Cómo se hace flickr?
 
-1.- REGISTRO: Tienes que estar registrado en [Yahoo](https://es.yahoo.com/) y luego entra en [Flickr](http://aularagon.catedu.es/materialesaularagon2013/blogs/M2_contenido/flickr.com)
+1.- REGISTRO: Tienes que estar registrado en [Yahoo](https://es.yahoo.com/) y luego entra en [Flickr](http://aularagon.catedu.es/materialesaularagon2013/imagen/CURSO/ZIPs/Modulo_7/12_flickr.html)
 
 2.- Creas un Album
 
