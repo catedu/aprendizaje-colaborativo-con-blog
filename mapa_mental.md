@@ -69,17 +69,9 @@ Manuales hay muchos:
 - [Edición de mapas conceptuales: Cmap Tools](http://es.scribd.com/doc/2465505/Edicion-de-mapas-conceptuales-Cmap-Tools), de Aido Velásquez
 - [Tutorial de Cmap Tools](http://issuu.com/colegio776/docs/tutorialcmaptools), de Renato Caporale
 
-## ¿Cómo queda embebido Popplet?
-
-
-
-<object type="application/x-shockwave-flash" data="http://popplet.com/app/Popplet_Alpha.swf?page_id=3106851&amp;em=1" width="460" height="460"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://popplet.com/app/Popplet_Alpha.swf?page_id=3106851&amp;em=1"></param><param name="allowfullscreen" value="false"></param></object>
-
-Si te fijas, con esta herramienta podemos poner **vídeos**, o de Youtuve o de Vimeo
-
 ## ¿Cómo queda sin embeber Popplet?
 
-Pues exportándolo como imagen, y se coloca en el artículo con un enlace
+Pues exportándolo como imagen y se coloca en el artículo con un enlace
 
 Imagen:
 
