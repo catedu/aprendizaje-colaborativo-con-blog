@@ -7,7 +7,7 @@
 * Word Press: [Como embeber todo lo que quieras en WP](http://facilytic.catedu.es/2013/06/13/como-embeber-todo-lo-que-quieras-en-wordpress-org/)
 * Blogger: [ Cómo insertar multimedia en Blogger](http://es.slideshare.net/rafaelballesteros1/cmo-embeber-insertar-contenidos-multimedia-en-blogger-28834549)
 
-En general la técnica es común a los editores WYSIWYG. \(es el acrónimo de What You See Is What You Get,"lo que ves es lo que obtienes"\) los editores WYSIWYG están también en Blogger. WordPress... y en casi todos sitios \(por ejemplo este curso se realizaó inicialmente en una herramienta que se llama Exelearning, y también tiene un editor WYSIWYG\).
+En general la técnica es común a los editores WYSIWYG. \(es el acrónimo de What You See Is What You Get,"lo que ves es lo que obtienes"\) los editores WYSIWYG están también en Blogger. WordPress... y en casi todos sitios \(por ejemplo este curso se realizó inicialmente en una herramienta que se llama Exelearning, y también tiene un editor WYSIWYG\).
 
 ## ¿Qué puedo embeber?
 
