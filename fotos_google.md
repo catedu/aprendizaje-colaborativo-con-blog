@@ -1,7 +1,7 @@
 
 # Fotos Google
 
-Otra opción es entrar en [Google Fotos, ](https://photos.google.com/?hl=es)igual que Flick NO PERMITE EMBEBER PRESENTACIONES pero sí hacer un enlace
+Otra opción es entrar en [Google Fotos](https://photos.google.com/?hl=es), igual que Flick NO PERMITE EMBEBER PRESENTACIONES pero sí hacer un enlace
 
 **Presentamos Fotos Google pues permite COLABORAR es decir, que cualquier persona puede añadir fotos**, esto nos parece interesante para las actividades extraescolares, además de que se puede embeber con PhotoSnack
 
