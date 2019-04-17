@@ -17,5 +17,5 @@ El código EMBED esta muy bien señalizado abajo a la derecha:
 
 Un inconveniente es que sólo se puede crear una línea de tiempo por cada correo electrónico, una solución es usar varios correos electrónicos.
 
-Hay [más herramientas de Linea de tiempo aquí](http://jr2punto0.blogspot.com.es/search/label/l%C3%ADneas%20del%20tiempo).
+Algunos ejemplos de [herramientas para elaborar "Lineas de tiempo" ](http://jr2punto0.blogspot.com.es/search/label/l%C3%ADneas%20del%20tiempo).
 
