@@ -12,7 +12,7 @@ Hay dos posibilidades:
 
 * **Opción B**: No tenemos la presentación queremos una herramienta Online para hacer nuestra presentación y a la vez que nos permita embeberla en nuestro blog: 
     * Una presentación hecha en **Google Drive**
-    * Portales donde las presentaciones quedan muy llamativas. [Emaze](https://www.emaze.com/es/), [Slides](https://slides.com/), [Prezzi](https://prezi.com/) o [Genial.ly](https://www.genial.ly/es). Prezi tiene una licencia educativa ([tutorial](http://recursostic.educacion.es/observatorio/web/gl/internet/recursos-online/970-prezi)) pero estas opciones no lo trataremos pues se escapa de las intenciones de este curso pero por supuesto puedes utilizarlos.
+    * Portales donde las presentaciones quedan muy llamativas. [Emaze](https://www.emaze.com/es/) ([tutorial](http://wp.catedu.es/lanuzadigital/creacion/presentaciones/emaze/)), [Slides](https://slides.com/), [Prezzi](https://prezi.com/) ([tutorial](http://recursostic.educacion.es/observatorio/web/gl/internet/recursos-online/970-prezi)) o [Genial.ly](https://www.genial.ly/es) ([tutorial](http://wp.catedu.es/lanuzadigital/creacion/presentaciones/genially/)). 
 
 ##Presentación Google Drive (recomendado)
 
