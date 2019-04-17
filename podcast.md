@@ -7,7 +7,7 @@ Aunque la definición técnica la puedes ver en la [Wikipedia](https://es.wikipe
 
 ## ¿Con qué herramientas?
 
-Hay muchas (Ivoox [tutorial](http://www.educacontic.es/blog/ivoox-la-letra-con-audio-entra) y [otras muchas](http://jr2punto0.blogspot.com.es/search/label/podcast) como por ejemplo [Audioboo y AudioPal](http://www.xarxatic.com/herramientas-2-0/sonido/)) pero la que te recomendamos es [Podomatic](http://jr2punto0.blogspot.com.es/search/label/podcast).p
+Hay muchas (Ivoox [tutorial](http://www.educacontic.es/blog/ivoox-la-letra-con-audio-entra) y [otras muchas](http://jr2punto0.blogspot.com.es/search/label/podcast) como por ejemplo [Audioboo y AudioPal](http://www.xarxatic.com/herramientas-2-0/sonido/)) pero la que te recomendamos es [Podomatic](http://jr2punto0.blogspot.com.es/search/label/podcast).
 
 ## ¿Cómo queda?
 
