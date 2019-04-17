@@ -24,11 +24,7 @@ Si vas a trabajar sin embeber, una opción es utilizar [http://drichard.org/min
 
 Hay también herramientas no on-line, sino programas que se instalan, y que por lo tanto descargas el mapa conceptual en forma de imagen y lo pones en el blog, por ejemplo [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) y [CMapTools](http://cmap.ihmc.us/) 
 
-## 
 
-## ¿Cómo queda embebido SpicesNode?
-
-<object type="application/x-shockwave-flash" data="http://media.spicynodes.org/display.swf?id=1063dae41faf762d665f89c47fe64352" id="spicynodesViewer" width="400" height="200"><param name="scalemode" value="showall"></param><param name="allowFullScreen" value="true"></param><param name="wmode" value="opaque"></param><param name="quality" value="high"></param><param name="allowScriptAccess" value="always"></param><param name="src" value="http://media.spicynodes.org/display.swf?id=1063dae41faf762d665f89c47fe64352"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer"></param></object>
 
 ## ¿Cómo queda sin embeber SpicesNode?
 
