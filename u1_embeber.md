@@ -1,6 +1,6 @@
 # U1.- Embeber
 
-**Embeber **en informática significa"incrustar" quizás sea una castellanización del inglés"embed". Con los blogs podemos incrustar código de una fuente en otra y de esta manera conseguimos que nuestros artículos cobren vida, es una herramienta tan potente que está estandarizada en Internet. ES UN CONCEPTO CLAVE EN LOS BLOGS.
+**Embeber **en informática significa"incrustar" quizás sea una castellanización del inglés "embed". Con los blogs podemos incrustar código de una fuente en otra y de esta manera conseguimos que nuestros artículos cobren vida, es una herramienta tan potente que está estandarizada en Internet. ES UN CONCEPTO CLAVE EN LOS BLOGS.
 
 # **Cómo embeber**
 
