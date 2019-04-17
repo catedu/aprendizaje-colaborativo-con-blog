@@ -38,7 +38,7 @@ Por lo tanto** WordPress.com sí **que permite embeber documentos de Drive, Yout
 
 Pues creas una imagen, y lo pones en el artículo junto con un enlace.
 
-Por ejemplo en mapas mentales de Popplet, el artículo sería así
+Por ejemplo en mapas mentales de [Popplet](http://popplet.com/), el artículo sería así:
 
 **Artículo**
 
@@ -46,7 +46,7 @@ Imagen \(obtenida mediante captura de pantalla, o en Popplet-Exportar-Imagen\) :
 
 ![](http://aularagon.catedu.es/materialesaularagon2013/blogs/M2_contenido/poppletcatedu.png)
 
-Enlace: [http://popplet.com/app/\#/3106851](http://popplet.com/app/#/3106851)
+
 
 ## 
 
