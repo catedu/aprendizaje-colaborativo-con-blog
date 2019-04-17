@@ -3,9 +3,8 @@
 
 ## StoryBoard
 
-Puedes hacer historias visuales y embeberlas, aquí un ejemplo embebido:
+Puedes hacer historias visuales y embeberlas, aquí un [ejemplo](http://aularagon.catedu.es/materialesaularagon2013/blogs/M2_contenido/historias_visuales.html) embebido.
 
-![](//sbt.blob.core.windows.net/storyboards/anna-warfield/12-labors-of-herakles.png)
 
 ## ¿Cómo se hace?
 
