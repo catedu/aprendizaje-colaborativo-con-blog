@@ -51,7 +51,7 @@ Manuales hay muchos:
 **Bubbl.us **
 
 - Manual de [Bubbl.us](http://www.educacontic.es/va/blog/crea-y-comparte-mapas-conceptuales-con-bubbl-us), de educ@conTIC.
-- [Videotutorial de Bubbl.us](http://webs.ono.com/tomas.seneca/bubbl/bubbl.html), de Tomás Mata
+-  [Mapas conceptuales sencillos con Bubbl.us](http://www.enlanubetic.com.es/2012/09/mapas-conceptuales-sencillos-con-bubblus.html#.XLb-RugzY2w), de enlanubeTIC.
 
 **Mind42**
 
