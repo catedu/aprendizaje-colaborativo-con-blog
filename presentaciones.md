@@ -34,7 +34,7 @@ Es un portal de **presentaciones**.
 
 Igual que si tenemos un vídeo, lo podemos subir en Youtube para compartirlo. Pues si tenemos una presentación podemos utilizar el portal Slideshare para subir nuestra presentación y compartirla.
 
-Otra herramienta es Prezi que permite hacer una presentación Online y además permite embeberla. Manua
+Otra herramienta es Prezi que permite hacer una presentación Online y además [permite incrustarla](https://docente2punto0.blogspot.com/2018/07/como-insertar-tu-prezi-next-en-un-blog.html).
 
 El mecanismo es análogo En [esta página](http://es.slideshare.net/anarh/insertar-presentaciones-de-slideshare-en-nuestro-blog-28462888) enseña como incluir presentaciones de slideshare.
 
