@@ -51,7 +51,7 @@ Aquí tenéis un ejemplo de código embebido desde Slideshare:
 
 Para insertarlo, aquí tienes estos enlaces:
 
-[Para Wordpress](http://www.donostik.com/2010/11/11/slide-share/)
+[Para Wordpress](http://facilytic.catedu.es/2013/06/13/como-embeber-todo-lo-que-quieras-en-wordpress-org/)
 
 [Para Blogger](http://www.ite.educacion.es/formacion/materiales/155/cd/modulo_2_imagen_digital_II/publicar_un_slideshare_en_blogger.html)
 
