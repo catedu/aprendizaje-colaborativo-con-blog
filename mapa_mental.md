@@ -14,7 +14,7 @@ Más abajo puedes ver cómo quedan embebidas estas herramientas.
 
 ## Ojo que es un flash
 
-¿y qué? te preguntarás, pues que últimamente los flash tienen mala reputación por los problemas de seguridad, por lo que los navegadores, y ciertos alojadores están empezando a bloquearlos, por ejemplo si haces el blog en wordpress.com no deja embeberlo.
+¿Y qué? te preguntarás, pues que últimamente los flash tienen mala reputación por los problemas de seguridad, por lo que los navegadores, y ciertos alojadores están empezando a bloquearlos, por ejemplo si haces el blog en wordpress.com no deja embeberlo.
 
 ## ¿Entonces qué hago si no puedo embeberlo?
 
