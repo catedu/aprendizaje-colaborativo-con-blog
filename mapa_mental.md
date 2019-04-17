@@ -32,7 +32,7 @@ Sin embeber, no hemos encontrado exportar como imagen, habría que hacer una cap
 
 ![](img/cateduspicesnode.png)
 
-Enlace: [http://www.spicynodes.org/a/1063dae41faf762d665f89c47fe64352](http://www.spicynodes.org/a/1063dae41faf762d665f89c47fe64352)
+Enlace [aquí](http://www.spicynodes.org/a/1063dae41faf762d665f89c47fe64352).
 
 ## ¿Cómo se hace?
 
