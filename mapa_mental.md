@@ -10,7 +10,7 @@ Los servicios Web 2.0 que permiten construir mapas mentales suelen añadir un va
 
 Hay muchísimas como gustos: [Popplet](http://popplet.com/) , [Spicesnode](http://www.spicynodes.org/), [Mind42](http://mind42.com/), [Mindomo](https://www.mindomo.com/es/) (gratis sólo hasta 3 mapas).  ([Ver artículos JR Olalla](http://jr2punto0.blogspot.com.es/search/label/mapas%20conceptuales)). ¿Cuál recomendamos? Spicesnote es nuestra favorita
 
-Más abajo puedes ver cómo quedan embebidos las siguientes herramientas;  
+Más abajo puedes ver cómo quedan embebidas estas herramientas.
 
 ## Ojo que es un flash
 
