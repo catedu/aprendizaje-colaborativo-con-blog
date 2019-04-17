@@ -43,7 +43,7 @@ También dispones de estos manuales y tutoriales:
 - [**Manual de utilización de Paloma Román Gómez**](http://www.slideshare.net/geopaloma/manual-de-utilizacin-de-slideshare)
 - [**Tutorial de Educar(Karina Crespo)**](http://www.slideshare.net/lalunaesmilugar/tutorial-de-slideshare)
 - [**Manual de uso, ubicado en facilytic, por Cesar Martínez**](http://www.catedu.es/facilytic/2013/10/09/comparte-tus-presentaciones-en-internet-con-slideshare/)
-- [Blogs educativos](https://es.slideshare.net/mjsd31vabq/blogs-educativos-25703178) from **[mjsd31vabq](http://www.slideshare.net/mjsd31vabq)**[ ](http://www.slideshare.net/mjsd31vabq)
+
 
 Aquí tenéis un ejemplo de código embebido desde Slideshare:
 
