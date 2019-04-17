@@ -16,11 +16,11 @@ Hay dos posibilidades:
 
 ##Presentación Google Drive (recomendado)
 
-Si hemos realizado una presentación online en Drive, lo podemos embeber, dando a Publicar:
+Si hemos realizado una presentación online en Drive, lo podemos incrustar (embeber), dando a Publicar:
 
 ![](/assets/presentacion1.jpeg)
 
-Y luego en **Insertar** - **Publicar** y nos enseña el código embed para ponerlo en nuestro artículo _(antes pide una confirmación si estamos seguros pues la presentación queda totalmente visible al público)_.
+Y luego en **Insertar** - **Publicar** y nos enseña el código incrustado (embed) para ponerlo en nuestro artículo _(antes pide una confirmación si estamos seguros pues la presentación queda totalmente visible al público)_.
 
 ![](/assets/presentacion2.jpeg)
 
