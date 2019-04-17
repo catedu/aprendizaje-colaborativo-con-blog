@@ -23,11 +23,11 @@ En este vídeo tutorial explica cómo conseguir el código de este portal de l
 
 
 
-[TIC y Educación](http://www.calameo.com/books/0007186948cc25a8147e8)
+[TIC y Educación](http://www.calameo.com/books/0007186948cc25a8147e8).
 
 <iframe style="margin: 0 auto;" src="//v.calameo.com/?bkcode=0007186948cc25a8147e8" frameborder="0" scrolling="no" width="300" height="194"></iframe>
 
-[Publish at Calameo](http://www.calameo.com/) or [read more publications](http://www.calameo.com/browse)
+[Publicar en Calameo](http://www.calameo.com/).
 
 ![](img/Dibujo1.JPG)
 
