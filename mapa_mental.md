@@ -62,7 +62,7 @@ Manuales hay muchos:
 **FeeMind**
 
 - [Aprovechamiento pedagógico del software FreeMind](http://www.slideshare.net/edu140271/tutorial-freemind), por Edu Valle
-- [Tutorial de FreeMind](https://www.youtube.com/watch?v=jNNgaPyR_Vc&vl=es).
+- [Tutorial de FreeMind](https://www.youtube.com/watch?v=jNNgaPyR_Vc&vl=es) (un poquito largo pero muy completo).
 
 **CMapTools**
 
