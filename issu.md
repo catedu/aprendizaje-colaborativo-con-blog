@@ -1,4 +1,4 @@
-#LIBROS Y REVISTAS
+[](https://es.calameo.com/)#LIBROS Y REVISTAS
 
 ##Issu
 
@@ -14,9 +14,9 @@ En este vídeo tutorial explica cómo conseguir el código de este portal de l
 
 ##Calameo
 
-Calameo nos ofrece la posibilidad de compartir y publicar documentos online. Convierte múltiples formatos de archivos, en un archivo de apariencia de libro digital. Con estos manuales, podemos trabajar con este servicio, sin problemas:
+[Calameo ](https://es.calameo.com/)nos ofrece la posibilidad de compartir y publicar documentos online. Convierte múltiples formatos de archivos, en un archivo de apariencia de libro digital. Con estos manuales, podemos trabajar con este servicio, sin problemas:
 
-- [**Manual de Jose Ramon Olalla**](http://www.catedu.es/facilytic/2013/10/16/calameo-publicar-y-compartir-documentos-en-linea/)
+- [**Manual de Jose Ramon Olalla**](https://es.calameo.com/read/00016110557755d497082/)
 - [**Tutorial de Sortsystems**](http://es.calameo.com/read/00020619253c94a0faee3)
 
 ![Fig. 2.10 Diego Arroyo. Calameo](img/calameo.jpg)
