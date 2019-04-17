@@ -13,11 +13,6 @@ En este vídeo tutorial explica cómo conseguir el código de este portal de l
 {% youtube %}https//www.youtube.com/watch?v=65u5ovV8snY{% endyoutube %}
 
 ##Calameo
-Otro portal muy fácil y el código de embed lo tienes en esa pestaña:
-
-![](/assets/calameo)
-
-[CALAMEO](http://es.calameo.com/)
 
 Calameo nos ofrece la posibilidad de compartir y publicar documentos online. Convierte múltiples formatos de archivos, en un archivo de apariencia de libro digital. Con estos manuales, podemos trabajar con este servicio, sin problemas:
 
