@@ -33,11 +33,11 @@ _L. García Areitio (2005)_ estructura estos tipos de blogs en aquellos que:
 
 o **Dirigidos a la Comunidad educativa **de modo que proporcionan información periódica y relevante a las familias sobre la evolución general del aula o grupo en cuestión. A su vez facilita el intercambio de opiniones e informaciones entre todos los miembros.
 
-Un ejemplo de este tipo de blogs lo podemos encontrar en **[http://www.catedu.es/arablogs/blog.php?id_blog=2143](http://www.catedu.es/arablogs/blog.php?id_blog=2143)**. En este caso es un blog de Ed. primaria utilizado entre otras cosas, **COMO INSTRUMENTO PARA OPTIMIZAR LAS RELACIONES ENTRE LOS MIEMBROS DE LA COMUNIDAD EDUCATIVA **En este caso, extrapolable a otras situaciones, etapas, materias, etc.
+Un [ejemplo](http://www.catedu.es/arablogs/blog.php?id_blog=2143) de este tipo de blogs lo podemos encontrar en este caso es un blog de Ed. primaria utilizado entre otras cosas, **COMO INSTRUMENTO PARA OPTIMIZAR LAS RELACIONES ENTRE LOS MIEMBROS DE LA COMUNIDAD EDUCATIVA **En este caso, extrapolable a otras situaciones, etapas, materias, etc.
 
 ![1.5 Diego Arroyo](img/blog_tu.jpg) 
 
-Los blogs sirven como lugar de exposición de lo que se va trabajando, instrumento de comunicación con las familias y lugar donde se ponen enlaces y materiales de interés. También, por supuesto, sirven de instrumento de motivación para las niñas y niños y para que las familias aumenten su motivación por la vida escolar de sus hijos. (**José Alonso**, CEIP Rosales del Canal - Zaragoza). Un ejemplo puede ser el blog: [**https://myenglishplayhouse.blogspot.com/**](https://myenglishplayhouse.blogspot.com/)
+Los blogs sirven como lugar de exposición de lo que se va trabajando, instrumento de comunicación con las familias y lugar donde se ponen enlaces y materiales de interés. También, por supuesto, sirven de instrumento de motivación para las niñas y niños y para que las familias aumenten su motivación por la vida escolar de sus hijos. Un ejemplo puede ser el blog de **José Alonso** del CEIP Rosales del Canal - Zaragoza.
 
  
 
