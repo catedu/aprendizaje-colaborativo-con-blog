@@ -43,13 +43,13 @@ Manuales hay muchos:
 - [Tutorial para aprender a usar Spicynodes](http://www.slideboom.com/presentations/136537), de Viviana Araya0
 - [Spicynodes, un organizador gráfico interactivo](http://www.slideshare.net/santiav/spicynodes-5874559)
 
-**Popplet**: manual [http://recursostic.educacion.es/observatorio/web/gl/internet/aplicaciones-web/1029-popplet](http://recursostic.educacion.es/observatorio/web/gl/internet/aplicaciones-web/1029-popplet)[](http://recursostic.educacion.es/observatorio/web/gl/internet/aplicaciones-web/1029-popplet)
+**Popplet**: [Manual ](http://recursostic.educacion.es/observatorio/web/gl/internet/aplicaciones-web/1029-popplet)
 
-[fuente [http://www.xarxatic.com/herramientas-2-0/mapas-y-diagramas/](http://www.xarxatic.com/herramientas-2-0/mapas-y-diagramas/)]
+[fuente: [http://www.xarxatic.com/herramientas-2-0/mapas-y-diagramas/](http://www.xarxatic.com/herramientas-2-0/mapas-y-diagramas/)]
 
 **Bubbl.us **
 
-- [Manual de Bubbl.us](http://www.google.es/url?sa=t&amp;source=web&amp;cd=1&amp;ved=0CBgQFjAA&amp;url=http%3A%2F%2Fwww.juntadeandalucia.es%2Faverroes%2Fcentros-tic%2F11007922%2Fhelvia%2Fsitio%2Fupload%2FmanualBubblus_1.pdf&amp;rct=j&amp;q=manual%20bubbl.us&amp;ei=tUIZTuqdFIuMswa15LHADw&amp;usg=AFQjCNFVzNY9OA11VeJxmZB1XvS7__FRRQ&amp;cad=rja), de la Junta de Andalucía
+- Manual de [Bubbl.us](http://www.educacontic.es/va/blog/crea-y-comparte-mapas-conceptuales-con-bubbl-us)
 - [Videotutorial de Bubbl.us](http://webs.ono.com/tomas.seneca/bubbl/bubbl.html), de Tomás Mata
 
 **Mind42**
