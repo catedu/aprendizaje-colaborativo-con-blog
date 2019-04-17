@@ -66,7 +66,6 @@ Manuales hay muchos:
 
 **CMapTools**
 
-- [Tutorial de Cmap Tools](http://www.google.es/url?sa=t&amp;source=web&amp;cd=1&amp;sqi=2&amp;ved=0CCEQFjAA&amp;url=http%3A%2F%2Fwww.iered.org%2Fcmapserver%2Fservlet%2FSBReadResourceServlet%3Frid%3D1239999961281_1603882765_101253&amp;rct=j&amp;q=cmaptools%20tutorial&amp;ei=7e40TvqwCoXm-gbX2-yTDQ&amp;usg=AFQjCNFeXUebgSZc7zvEcPV724Dj48AMzA&amp;cad=rja), de Francesc Pastor (Universidad de Alicante)
 - [Edición de mapas conceptuales: Cmap Tools](http://es.scribd.com/doc/2465505/Edicion-de-mapas-conceptuales-Cmap-Tools), de Aido Velásquez
 - [Tutorial de Cmap Tools](http://issuu.com/colegio776/docs/tutorialcmaptools), de Renato Caporale
 
