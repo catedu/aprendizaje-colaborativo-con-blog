@@ -40,8 +40,9 @@ Manuales hay muchos:
 
 **SpicesNode**
 
-- [Tutorial para aprender a usar Spicynodes](http://www.slideboom.com/presentations/136537), de Viviana Araya0
-- [Spicynodes, un organizador gráfico interactivo](http://www.slideshare.net/santiav/spicynodes-5874559)
+- [Tutorial para aprender a usar Spicynodes](http://www.slideboom.com/presentations/136537), de Viviana Araya.
+- [Spicynodes](http://www.slideshare.net/santiav/spicynodes-5874559), un organizador gráfico interactivo
+
 
 **Popplet**: [Manual ](http://recursostic.educacion.es/observatorio/web/gl/internet/aplicaciones-web/1029-popplet)
 
