@@ -18,7 +18,7 @@ Otra necesidad una plataforma de espacio de trabajo, o Aula Virtual, es decir un
 
 A lo largo de las dos unidades de este módulo, pretendemos que conozcas, reflexiones y experimentes con esta potencial herramienta que encierra multitud de posibilidades didácticas.
 
-{% youtube %}https//www.youtube.com/watch?v=GzLqUrTu2j4{% endyoutube %}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GzLqUrTu2j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Ambientes 
