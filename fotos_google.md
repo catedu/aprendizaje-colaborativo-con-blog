@@ -25,7 +25,7 @@ Por ejemplo [ESTE ENLACE](https://goo.gl/photos/D6sAY7MVNP36BxeZ6)
 
 
 
-Por ejemplo el del <span style="background-color:yellow">COLABORAR</span>, podemos hacer que cualquiera añada fotos al álbum. Esto es útil por ejemplo en viajes de estudios, actividades extraescolares,... donde mucha gente tiene fotos de una actividad pero no un sitio común para compartirlas
+Por ejemplo el de <span style="background-color:yellow">COLABORAR</span>, podemos hacer que cualquiera añada fotos al álbum. Esto es útil por ejemplo en viajes de estudios, actividades extraescolares,... donde mucha gente tiene fotos de una actividad pero no un sitio común para compartirlas
 
 5. <span style="background-color:yellow">Le damos a copiar en enlace y ya está</span>
 
