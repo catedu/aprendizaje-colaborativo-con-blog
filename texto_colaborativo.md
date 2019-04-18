@@ -1,7 +1,7 @@
 
 # Texto colaborativo
 
-Antes existía TITANPAD que permitía crear documentos colaborativos sin necesitad de registro. Pero cierra en diciembre 2017
+Antes existía TITANPAD que permitía crear documentos colaborativos sin necesitad de registro. Pero cerró en diciembre 2017.
 
 Existen alternativas como MEETINGWORDS y COLLABEDIT su funcionamiento es igual que en **titanpad**, pero cambiando el nombre por los anteriores  [pequeño tutorial en esta página](http://aularagon.catedu.es/materialesaularagon2013/blogs/videos/titanpad.htm) (Flash SWF) [ otra en formato PDF](http://aularagon.catedu.es/materialesaularagon2013/blogs/videos/Titanpad.pdf)
 
