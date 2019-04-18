@@ -22,8 +22,8 @@ Fíjate en todos estos ejemplos, que los artículos NO ESTÁN ESCRITOS POR EL PR
 
   * [En tiempos de mis bisabuelos](http://arablogs.catedu.es/blog.php?id_blog=2296) donde los alumnos de secundaria  convierten el blog en un** Trabajo de investigacion**
   * [LA DECOUVERTE DU MONDE EN FRANÇAIS](http://arablogs.catedu.es/blog.php?id_blog=938) donde los alumnos escriben en una **lengua extranjera**
-  * [PROA IES Bajo Aragón](http://www.catedu.es/arablogs/blog.php?id_blog=2362&amp;pg=1) \(Alcañiz\): Blog en el que participan los alumnos del PROA escribiendo diferentes tipos de post en los que también incrustan presentaciones, vídeos,...
-  * [Lengua IES Joaquín Costa \(Cariñena\):  ](http://www.catedu.es/arablogs/blog.php?id_blog=2352)Blog aula para los alumnos de 4ª de la ESO en el que trabajan el área de lengua. Post con poesías, composiciones,... realizadas por ellos.
+  * [PROA IES Bajo Aragón](http://arablogs.catedu.es/blog.php?id_blog=2362) \(Alcañiz\): Blog en el que participan los alumnos del PROA escribiendo diferentes tipos de post en los que también incrustan presentaciones, vídeos,...
+  * [Lengua IES Joaquín Costa \(Cariñena\)](http://arablogs.catedu.es/blog.php?id_blog=2352):  Blog aula para los alumnos de 4ª de la ESO en el que trabajan el área de lengua. Post con poesías, composiciones,... realizadas por ellos.
 
 Blogs donde escribe el profesor pero de actividades colaborativas de los alumnos:
 
