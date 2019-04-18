@@ -16,5 +16,5 @@ Como ves **todo artículo colaborativo** tiene dos partes:
 * Un texto con el enlace al documento donde dice qué es lo que tiene que hacer el alumno, y el enlace tiene que llevar al documento **CON PERMISOS DE EDICIÓN** para que el alumno pueda colaborar.
 * El documento embebido en el blog
 
-El proceso es exactamente lo mismo que en [Drive Documento](drive_documento.md) pero en vez de Nuevo - Documento se elige Presentación
+El proceso es exactamente lo mismo que en [Drive Documento](drive_documento.md) pero en vez de "Nuevo - Documento" se elige "Presentación".
 
