@@ -3,7 +3,7 @@
 
 Para hacer una actividad colaborativa con archivos, el envío de archivos de alumno a profesor es más difícil, hay varias opciones:
 
-_(Hablamos siempre fuera de la red local, si es dentro de la red local hay opciones como compartir carpetas, o [Intranet]_(http://catedu.es/intranetypupitre/))
+_(Hablamos siempre fuera de la red local, si es dentro de la red local hay opciones como compartir carpetas, o [Intranet]_(http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/0/147/html/intranet.html))
 
 * Que el alumno o el grupo envíe el archivo** en un correo electrónico**
     - Desventajas: Hasta los 14 años no se puede tener correo electrónico [[ver](https://support.google.com/accounts/answer/1350409?hl=es)].
