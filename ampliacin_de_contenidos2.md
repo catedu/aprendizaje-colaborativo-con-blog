@@ -11,7 +11,7 @@ Visitando estos enlaces podéis añadir más información a la ya añadida. Son 
 
 Excelente material sobre la mayoría de los aspectos a tener en cuenta a la hora de trabajar con **revistas escolares**.
 
-* [dinámicas de aprendizaje colaborativo](http://ineverycrea.net/comunidad/ineverycrea/recurso/dinamicas-de-trabajo-colaborativo-en-el-aula/5f4a18cf-4abd-40f1-baeb-69d0a718c196)
+* [dinámicas de aprendizaje colaborativo](http://auladeideas.com/blog/tipo/dinamica_grupo/)
 
 ![Fig. 3.18. Fuente:http://educacionysolidaridad.blogspot.com.es/2012/05/aprendizaje-cooperativo-dinamicas-para.html](img/imagen_aprendizaje_coopertivo.jpg)
 
