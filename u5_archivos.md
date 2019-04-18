@@ -1,11 +1,10 @@
-
 # U5.- Archivos
 
 La transferencia de archivos puede convertirse como actividad cooperativa. Aunque es una comunicación uno a uno 1-1, si el receptor es **un grupo** que trabajan en **un equipo**, puede ser una actividad colaborativa.
 
 ### Red local no
 
-El blog permite comunicarse a través de internet, pero si vas a hacer transferencia de archivos sólo en el centro, sin salir de este entorno, son ficheros muy grandes, e Internet no va muy rápido en tu centro, entonces te recomendamos que uses otras técnicas de red local, como compartir carpetas o [Intranet](http://catedu.es/intranetypupitre/)
+El blog permite comunicarse a través de internet, pero si vas a hacer transferencia de archivos sólo en el centro, sin salir de este entorno, son ficheros muy grandes, e Internet no va muy rápido en tu centro, entonces te recomendamos que uses otras técnicas de red local, como compartir carpetas o [Intranet](http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/0/147/html/intranet.html)
 
 ## ¿Que archivos?
 
@@ -13,11 +12,11 @@ El blog permite comunicarse a través de internet, pero si vas a hacer transfere
 
 En el blog puedes colgar una actividad que sea un archivo a descargar. El grupo de alumnos tienen que realizar esa actividad.
 
-Los archivos pueden ser tipo texto (Word, Writer...) presentaciones (Power Point Impress..). Para realizar actividades del profesor las de tipo texto es lo más frecuente.
+Los archivos pueden ser tipo texto \(Word, Writer...\) presentaciones \(Power Point Impress..\). Para realizar actividades del profesor las de tipo texto es lo más frecuente.
 
-Una opción en Word es utilizar campos bloqueados para que ellos realicen la actividad totalmente guiada [[ver](http://facilytic.catedu.es/wp-content/uploads/2013/11/bloqueoword.doc)]
+Una opción en Word es utilizar campos bloqueados para que ellos realicen la actividad totalmente guiada \[[ver](http://facilytic.catedu.es/wp-content/uploads/2013/11/bloqueoword.doc)\]
 
-Otro tipo de archivos son las herramientas de autor (hay un curso en Aularagon), un flash, hoja de cálculo...
+Otro tipo de archivos son las herramientas de autor \(hay un curso en Aularagon\), un flash, hoja de cálculo...
 
 **Actividad-archivo creado por el alumno**
 
@@ -32,3 +31,4 @@ Siempre hay que pensar que el grupo puede reunirse físicamente para realizar el
 ![](img/arrow-34285_960_720.png)
 
 ![](img/odc.jpg)
+
