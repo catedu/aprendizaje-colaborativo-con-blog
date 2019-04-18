@@ -8,6 +8,8 @@ Una opción muy interesante, es insertar un código Java script que permite que 
 
 ## ¿Cómo se hace?
 
-Insertando el código Java que se muestra en la siguiente página, cambiando lo azul y lo rojo por tus preguntas
+Insertando el código Java que se muestra en la siguiente página, cambiando lo azul y lo rojo por tus preguntas.
+
+http://loglobalizo.blogspot.com.es/2011/03/crear-un-test-en-blogger.html
 
 <iframe src="http://loglobalizo.blogspot.com.es/2011/03/crear-un-test-en-blogger.html" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
