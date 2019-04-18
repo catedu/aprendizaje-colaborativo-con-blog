@@ -13,7 +13,7 @@ Cualquier proyecto colaborativo llevará implícitas una serie de actividades, q
 - Intercambio.
 - Evaluación.
 
-Además, de las actividades propuestas, son muy importantes las dinámicas de grupos y actividades de este estilo que fomentan el trabajo colaborativo. En este [articulo](http://aprendiendodemaneracolaborativa.wikispaces.com/Actividades+y+din%C3%A1micas+para+fomentar+el+aprendizaje+colaborativo), podéis ver una pequeña síntesis de todo esto.
+Además, de las actividades propuestas, son muy importantes las dinámicas de grupos y actividades de este estilo que fomentan el trabajo colaborativo. En este [articulo](http://arablogs.catedu.es/arablogs/blog.php?id_blog=1194&id_articulo=56676), podéis ver una pequeña síntesis de todo esto.
 
 Aquí, podemos ver en esta presentación un ejemplo expuesto por Aaron Mena, de lo que es una experiencia colaborativa.
 
