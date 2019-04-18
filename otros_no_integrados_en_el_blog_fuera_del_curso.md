@@ -10,6 +10,11 @@ Hay otras herramientas para hacer preguntas pero que no permiten el embebido. ¿
 
 Son herramientas pensadas para hacer encuestas en directo, no via blog, luego **QUEDAN FUERA DEL CURSO** sólo lo mostramos como ampliación de contenidos.
 
+## Doodle
+Es rápido y sencillo. Se utiliza para cualquier dispositivo (móvil, tableta, pc...) [[Encuesta Doodle](https://doodle.com/es/)]
+
+
+
 ## Socrative
 
 Es una página muy sencilla, te registras, y creas las preguntas, una vez creadas, te facilita un código donde el alumno cuando entra en [Socrative](http://www.socrative.com/) pide el código
