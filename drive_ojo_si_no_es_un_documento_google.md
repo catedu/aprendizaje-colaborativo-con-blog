@@ -3,7 +3,7 @@
 
 ¿Qué ocurre si tengo un archivo en Drive, pero no es un documento Google? 
 
-Respuesta: **QUE NO SE PUEDE EDITAR por lo tanto no es colaborativo**. Se puede poner un enlace, los alumnos lo pueden ver, pero no se puede editar
+Respuesta: que **NO SE PUEDE EDITAR** por lo tanto **no es colaborativo**. Se puede poner un enlace, los alumnos lo pueden ver, pero no se puede editar
 
 ¿Cómo convierto un documento por ejemplo de Word a un documento de Google? (es válido para otro tipo por ejemplo Power Point...)
 
