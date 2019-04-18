@@ -7,16 +7,19 @@ Esta sí que es una buena opción colaborativa: Un blog donde los alumnos **escr
 Fíjate en todos estos ejemplos, que los artículos NO ESTÁN ESCRITOS POR EL PROFESOR sino por los alumnos.
 
 * **Blogs de Ed Infantil**
+
   * [Pequeños Alhameños](http://arablogs.catedu.es/arablogs/blog.php?id_blog=152&id_articulo=46768): Es un blog del CATEDU en el que los niños entran como usuarios de Ed. Infantil y pueden escribir sus propios artículos \(después son transcritos por la maestra antes de su publicación\). Se combinan los artículos escritos por los alumnos con otros publicados por los profesores.
   * [Valde-bloggers](http://arablogs.catedu.es/blog.php?id_blog=2396) de Infantil, todo son trabajos y expresividad de los alumnos/as de **infantil**
 
 * **Blogs de Ed Primaria**
+
   * [Escribimos al mundo](http://arablogs.catedu.es/blog.php?id_blog=2502) de primaria, un portal donde los alumnos de primaria se expresan en forma de** noticias**
   * [Pserikasaj](http://arablogs.catedu.es/blog.php?id_blog=2442) los alumnos/as se expresan** libremente**
-  * [Escribir es importante](http://www.catedu.es/arablogs/blog.php?id_blog=2060&amp;id_categoria=13307): Blog elaborado con las producciones literarias de los alumnos del CEIP Gascón y Marín \(Zaragoza\).
-  * [Taller de prensa: ](http://www.catedu.es/arablogs/blog.php?id_blog=1994) En este blog de los alumnos de 5º del CP Tio Jorge de Zaragoza. Los post están redactados por ellos y cuentan a modo de noticias las cosas importantes que hacen o suceden en el colegio.
+  * [Escribir es importante](https://ceipgasconymarin.catedu.es/): Blog elaborado con las producciones literarias de los alumnos del CEIP Gascón y Marín \(Zaragoza\).
+  * [Taller de prensa](http://arablogs.catedu.es/blog.php?id_blog=1994&id_articulo=128619):  En este blog de los alumnos de 5º del CP Tio Jorge de Zaragoza. Los post están redactados por ellos y cuentan a modo de noticias las cosas importantes que hacen o suceden en el colegio.
 
 * **Blogs de Ed Secundaria**
+
   * [En tiempos de mis bisabuelos](http://arablogs.catedu.es/blog.php?id_blog=2296) donde los alumnos de secundaria  convierten el blog en un** Trabajo de investigacion**
   * [LA DECOUVERTE DU MONDE EN FRANÇAIS](http://arablogs.catedu.es/blog.php?id_blog=938) donde los alumnos escriben en una **lengua extranjera**
   * [PROA IES Bajo Aragón](http://www.catedu.es/arablogs/blog.php?id_blog=2362&amp;pg=1) \(Alcañiz\): Blog en el que participan los alumnos del PROA escribiendo diferentes tipos de post en los que también incrustan presentaciones, vídeos,...
@@ -25,9 +28,11 @@ Fíjate en todos estos ejemplos, que los artículos NO ESTÁN ESCRITOS POR EL PR
 Blogs donde escribe el profesor pero de actividades colaborativas de los alumnos:
 
 * **Blogs en Ed. Infantil:**
+
   * [La clase de Miren](http://laclasedemiren.blogspot.com.es/): Es un  blog de aula en el que la maestra va contando las cosas que suceden en clase.
 
 * **Blogs de Primaria**
+
   * [CEIP Valdespartera](http://www.catedu.es/arablogs/blog.php?id_blog=1600): Este blog está elaborado por los profesores del centro, bajo la coordinación de uno de ellos \(Daniel Martín\) y en él se explica lo que se va trabajando en cada aula, se muestran fotos, se suben trabajos,... Es además, una importante fuente de buenos recursos clasificados y organizados por etapas y áreas, juegos, aplicaciones, etc.
 
 ## ¿Cómo hacerlo?
