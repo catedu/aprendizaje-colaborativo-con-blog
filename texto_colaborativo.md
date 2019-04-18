@@ -7,7 +7,7 @@ Existen alternativas como MEETINGWORDS y COLLABEDIT su funcionamiento es igual q
 
 ## [Meetingwords](http://meetingwords.com/)
 
-ES EXACTAMENT IGUAL QUE TITANPAD Entramos en [http://meetingwords.com/](http://meetingwords.com/) y creamos un documento SIN NECESIDAD DE REGISTRO en el blog ponemos simplemente el enlace no se puede embeber
+ES EXACTAMENT IGUAL QUE TITANPAD: Entramos en [http://meetingwords.com/](http://meetingwords.com/) y creamos un documento SIN NECESIDAD DE REGISTRO en el blog ponemos simplemente el enlace no se puede embeber
 
 Un ejemplo aquí [http://meetingwords.com/KH3UxPB1aj](http://meetingwords.com/KH3UxPB1aj)[](http://meetingwords.com/KH3UxPB1aj)
 
