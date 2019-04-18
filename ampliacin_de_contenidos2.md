@@ -6,7 +6,7 @@
 
 Visitando estos enlaces podéis añadir más información a la ya añadida. Son lecturas muy recomendables,variadas e interesantes acerca de todo lo visto hasta ahora:
 
-* [periódicos escolares ](http://www.catedu.es/abrapalabra/index.php?option=com_content&amp;view=article&amp;id=192&amp;Itemid=271)
+* [periódicos escolares ](http://abrapalabra.catedu.es/periodicos-escolares/)
   ![Fig. 3.17 Captura de pantalla. Fuente: http://www.catedu.es/abrapalabra](img/Dibujo.JPG) 
 
 Excelente material sobre la mayoría de los aspectos a tener en cuenta a la hora de trabajar con **revistas escolares**.
