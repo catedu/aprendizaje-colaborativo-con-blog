@@ -29,8 +29,6 @@ Para facilitar su uso y manejo, aquí os presentamos dos manuales muy útiles
 
 - [Manual básico de Jose Vicente Alfaro](http://issuu.com/jvalfaro/docs/box)
 
-- [Manual de uso, de Cesar Martinez, ubicado en el portal facilytic, de CATEDU](http://www.catedu.es/facilytic/2013/10/10/896/)
-![Fig. 2.6. Box](img/logo-box.jpeg) 
 
 Después de ver algunas de sus peculiaridades y características, en este pequeño archivo, podemos apreciar las ventajas e inconvenientes de estas plataformas.
 
