@@ -19,25 +19,15 @@ Igualmente en esta página, entramos y pinchamos en crear documento, curiosament
 
 Un ejemplo aquí [http://collabedit.com/urn3r](http://collabedit.com/urn3r) pero no se puede embeber igual que antes
 
-## ¿Como queda en MeetingWords?
 
-Pues así:
 
-<iframe src="http://meetingwords.com/KH3UxPB1aj" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## Cómo incrustarlo (embeberlo)...
 
-## ¿Como queda en Collabedit?
 
-Pues así:
-
-<iframe src="http://collabedit.com/urn3r" frameborder="0" width="100%" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-## Una pregunta tonta...
-
-Si MeetingWords y Collabedit no se puede embeber ¿cómo es que aquí esta embebido?
 
 %accordion%Solución%accordion%
 
-Porque utiliizando la itequeta *```<iframe>```* puedes embeber cualquier **Sitio web externo** estático, es decir no interactivo. Por ejemplo, el código utilizado para embeber *¿Como queda en MeetingWords?* es:
+Utilizando la etiqueta *```<iframe>```* puedes embeber cualquier **Sitio web externo** estático, es decir no interactivo. Por ejemplo, el código utilizado para embeber *¿Como queda en MeetingWords?* es:
 
 ```html
 <iframe src="http://meetingwords.com/KH3UxPB1aj" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><iframe src="http://meetingwords.com/KH3UxPB1aj" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
