@@ -9,4 +9,4 @@ Blog JR Olalla 5 Abril 2016:
 
 Y este es nuestro muro, realizado con Padlet, sin necesidad de registrar, entrando en Crear Padlet!!! haz doble clic y ¡comparte lo que quieras!:
 
-<iframe width="100%" height="480" style="padding: 0; margin: 0; border: none;" src="//padlet.com/embed/da8s9svz9pp5" frameborder="0"></iframe>
+<iframe width="100%" height="480" style="padding: 0; margin: 0; border: none;" src="https://padlet.com/CATEDU/soporte" frameborder="0"></iframe>

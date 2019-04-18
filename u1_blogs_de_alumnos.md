@@ -33,7 +33,7 @@ Blogs donde escribe el profesor pero de actividades colaborativas de los alumnos
 
 * **Blogs de Primaria**
 
-  * [CEIP Valdespartera](http://www.catedu.es/arablogs/blog.php?id_blog=1600): Este blog está elaborado por los profesores del centro, bajo la coordinación de uno de ellos \(Daniel Martín\) y en él se explica lo que se va trabajando en cada aula, se muestran fotos, se suben trabajos,... Es además, una importante fuente de buenos recursos clasificados y organizados por etapas y áreas, juegos, aplicaciones, etc.
+  * [CEIP Valdespartera](http://web.catedu.es/webcatedu/index.php/buenas-practicas/137-proyecto-tic-en-ceip-valdespartera): Este blog está elaborado por los profesores del centro, bajo la coordinación de uno de ellos \(Daniel Martín\) y en él se explica lo que se va trabajando en cada aula, se muestran fotos, se suben trabajos,... Es además, una importante fuente de buenos recursos clasificados y organizados por etapas y áreas, juegos, aplicaciones, etc.
 
 ## ¿Cómo hacerlo?
 
