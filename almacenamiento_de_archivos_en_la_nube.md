@@ -15,9 +15,10 @@ Google Drive es un servicio de almacenamiento de archivos en línea gratuito, e
 
 Este servicio nos permite almacenar y sincronizar diferentes archivos en línea entre ordenadores. Los archivos son sincronizados en la nube, y en todos los ordenadores del usuario, de tal modo que los archivos en la carpeta de esta plataforma pueden ser compartidos con otros usuarios de este servicio.
 
-Este manual, alojado en la web de Julián Trullenque, nos puede servir de guía para trabajar con él, y conocer todas sus peculiaridades. [Manual](http://maestros20.webnode.es/dropbox/)
+Este [manual](http://maestros20.webnode.es/dropbox/), alojado en la web de Julián Trullenque, nos puede servir de guía para trabajar con él, y conocer todas sus peculiaridades. 
 
- Además os añadimos otro práctico tutorial de Javier Quintana, muy interesante. [Tutorial](http://www.catedu.es/facilytic/2013/05/16/dropbox/)
+ Además os añadimos otro práctico [tutorial de Javier Quintana](http://facilytic.catedu.es/2013/05/16/dropbox/), muy interesante.
+
 ![Fig. 2.5. Dropbox](img/dropbox-lanzara-aplicacion-windows-8-windows-rt.jpg) 
 
 **BOX**
