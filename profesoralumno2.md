@@ -8,7 +8,7 @@ _(Hablamos siempre fuera de la red local, si es dentro de la red local hay opcio
 * Que el alumno o el grupo envíe el archivo** en un correo electrónico**
     - Desventajas: Hasta los 14 años no se puede tener correo electrónico [[ver](https://support.google.com/accounts/answer/1350409?hl=es)].
     - Solución: Utilizar [Google Apps for Education](https://www.google.com/edu/) donde el centro a través de un dominio, tiene cuentas para todos los alumnos y su control. Esto no se explicará en este curso pues se escapa de nuestros objetivos. En Aularagón (A partir de Oct-16) hay un curso sobre esta herramienta.
-* Un truco es hacerlo al revés: Dar al alumno **usuario de editor**, y que él pueda crear una entrada, y por lo tanto colgar el archivo que quiera, como vimos en A través del artículo, el mejor es WordPress pero para dar de alta un usuario, necesita un email, y tenemos el problema anterior.
+* Un truco es hacerlo al revés: Dar al alumno **usuario de editor**, y que él pueda crear una entrada, y por lo tanto colgar el archivo que quiera, como vimos en "A través del artículo", el mejor es WordPress pero para dar de alta un usuario, necesita un email, y tenemos el problema anterior.
 * Que tengas un enlace a un **formulario enlazado** a tu Dropbox de tal manera que una persona de forma anónima puede enviar archivos a esa carpeta.
 * Que el alumno te envíe un archivo utilizando alguna página de **envío on-line de correo electrónico anónimo**.
 
