@@ -7,7 +7,7 @@ Para los blogs **RECOMENDAMOS DRIVE**, aunque Dropbox es necesario si vas a util
 
 **DRIVE**
 
-Google Drive es un servicio de almacenamiento de archivos en línea gratuito, en el que además se pueden crear nuevos documentos, editar y compartir los almacenados. Aquí os presentamos un interesante [manual de Rosa Garza](http://www.catedu.es/facilytic/2013/05/30/manual-google-drive/), incluido en el portal de facilytic, con el que podéis comenzar a trabajar.
+Google Drive es un servicio de almacenamiento de archivos en línea gratuito, en el que además se pueden crear nuevos documentos, editar y compartir los almacenados. Aquí os presentamos un interesante [manual de Rosa Garza](https://issuu.com/rosagarzat/docs/tutorial_google_drive/8),  con el que podéis comenzar a trabajar.
 
 ![Fig. 2.4  Google Drive](img/google_drive_logo_3963.png) 
 
