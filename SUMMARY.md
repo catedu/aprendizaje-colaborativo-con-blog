@@ -113,7 +113,6 @@
 
 ---
 
-* [Créditos](crditos3.md)
 * [Créditos](crditos_2013.md)
 
 
