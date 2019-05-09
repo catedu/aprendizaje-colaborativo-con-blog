@@ -1,8 +1,13 @@
+#Créditos 2016
 
-# Créditos 2013
+* 2013 Diseño inicial: Diego Arroyo Murillo
 
-## Autoría
+Cambios y actualizaciones:
 
-Diego Arroyo Murillo
+* 2015 Javier Quintana
+* 2016 [Ana Castillo Castaño](http://www.ana-castillo.com/).
+* 2018 Marta Peribañez.
+
+
 
 {% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}

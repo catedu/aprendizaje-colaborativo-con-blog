@@ -23,8 +23,7 @@
     * [Categorí­as, etiquetas y publicar](categoras_etiquetas_y_publicar.md)
     * [Avanzando](avanzando.md)
 * [Ejemplos](ejemplos.md)
-* [Créditos 2013](crditos_2013.md)
-* [Créditos 2016](crditos_2016.md)
+* [Créditos](crditos_2013.md)
 
 ## 2. Aumentar y mejorar nuestros contenidos
 
