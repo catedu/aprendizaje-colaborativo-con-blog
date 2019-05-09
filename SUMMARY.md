@@ -32,7 +32,7 @@
   * [U2.- Multimedia](u2_multimedia.md)
     * [Youtube](youtube.md)
     * [EDPuzzle](edpuzzle.md)
-    * [Fotos Flickr](fotos_flickr.md)
+<!--    * [Fotos Flickr](fotos_flickr.md) -->
     * [Fotos Google](fotos_google.md)
     * [Fotos PhotoSnack](fotos_photosnack.md)
     * [Podcast](podcast.md)
@@ -51,7 +51,7 @@
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
   * [Contador de visitas](contador_de_visitas.md)
   * [Historias visuales](historias_visuales.md)
-* [Créditos](crditos.md)
+<!-- * [Créditos](crditos.md) -->
 
 ## 3. Aprendizaje colaborativo entre alumnos
 
