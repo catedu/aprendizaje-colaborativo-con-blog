@@ -2,7 +2,9 @@
 
 ## Autoría
 
-* {{ book.author }}
+{% for item in book.author %}
+{{ item.name}}
+{% endfor $}
 
 ### Colaboradores:
 
