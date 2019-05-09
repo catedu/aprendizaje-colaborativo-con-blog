@@ -1,4 +1,4 @@
-#Créditos 2016
+#Créditos
 
 * 2013 Diseño inicial: Diego Arroyo Murillo
 
