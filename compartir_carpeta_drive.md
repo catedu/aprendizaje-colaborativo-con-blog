@@ -1,4 +1,4 @@
-
+[](http://aularagon.catedu.es/materialesaularagon2013/blogs/M3_contenido/bloqueoword.doc)
 # Compartir carpeta Drive
 
 Una forma cómoda para compartir archivos con los alumnos de forma cooperativa es COMPARTIR UNA CARPETA EN DRIVE, pero OJO, CON PERMISOS DE EDICIÓN sino no pueden poner los alumnos los ejercicios.
