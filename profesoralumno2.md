@@ -1,5 +1,5 @@
 
-# Profesor <- Alumno
+# Profesor < - Alumno
 
 Para hacer una actividad colaborativa con archivos, el envío de archivos de alumno a profesor es más difícil, hay varias opciones:
 
