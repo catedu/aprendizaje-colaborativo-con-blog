@@ -1,5 +1,5 @@
 
-# Profesor-&gt;Alumno
+# Profesor->Alumno
 
 En tu blog puedes poner enlaces a algún archivo que quieras pasar a los alumnos, tienes dos posibilidades:
 
