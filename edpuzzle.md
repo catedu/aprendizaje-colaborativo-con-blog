@@ -40,6 +40,11 @@ Existen varias páginas para insertar preguntas interactivas en los vídeos, [Ed
 
 Aquí tienes el link. https://edpuzzle.com/media/5ca31d31cfe253416dd3bd42
 
+####IMPORTANTE
+Hazlo **PUBLICO** PUES DE OTRO MODO OBLIGAS AL USUARIO A REGISTRARSE PARA VERLO
+
+![](/assets/publicoedmodo.png)
+
 y aquí está embebido:
 
 <iframe width="470" height="402" src="https://edpuzzle.com/embed/media/5ca31d31cfe253416dd3bd42" frameborder="0" allowfullscreen></iframe>
