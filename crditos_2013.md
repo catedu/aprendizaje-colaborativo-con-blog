@@ -7,6 +7,7 @@ Cambios y actualizaciones:
 * 2015 Javier Quintana
 * 2016 [Ana Castillo Castaño](http://www.ana-castillo.com/).
 * 2018 Marta Peribañez.
+* Módulo 0 Licencias Ibán de la Horra Villacé
 
 
 
