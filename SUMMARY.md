@@ -2,7 +2,7 @@
 
 * [Introducción](README.md)
 * [0 Licencias CC](0-licencias-cc.md)
-* 0.1 Recursos Educativos Abiertos \(REA\)
+* [0.1 Recursos Educativos Abiertos \(REA\)](01-recursos-educativos-abiertos-rea.md)
 
 ## 1. Los blogs
 
