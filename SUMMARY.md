@@ -4,6 +4,7 @@
 * [0 Licencias CC](0-licencias-cc.md)
 * [0.1 Recursos Educativos Abiertos \(REA\)](01-recursos-educativos-abiertos-rea.md)
 * [0.2 Licencias CC](02-licencias-cc.md)
+* [0.3 Normativa para referenciar](03-normativa-para-referenciar.md)
 
 ## 1. Los blogs
 
