@@ -32,10 +32,25 @@ Nuestra cuenta es gratuita pero con limitaciones, y tenemos opciones de pago:
 
 En **CREAR** tenemos muchas opciones, no sólo el mapa mental, sino esquemas, historias, comparativas, debate .... navega por las plantillas y verás las posibilidades didácticas de esta herramienta
 
+![](/assets/2019-10-24 09_15_23.jpg)
 
+La creación es fácil, se puede realizar online o descargar su aplicación, podemos insertar vídeos, enlaces, documentos, imágenes...
 
+![](/assets/2019-10-24 09_34_01.jpg)
 
+#MINDOMO EMBEBERLO EN EL BLOG
+Entramos en COMPARTIR arriba a la derecha
 
+![](/assets/2019-10-24 09_38_20.jpg)
+
+Y pulsamos en CAMBIAR y le damos acceso PUBLICO PARA QUE TODO EL MUNDO PUEDA VERLO y nos proporciona el código EMBED para ponerlo en nuestro blog
+
+![](/assets/2019-10-24 09_36_32.jpg)
+
+#MINDOMO COMO QUEDA EMBEBIDO
+Pues así
+
+<iframe width="500" height="500" src="https://www.mindomo.com/mindmap/organigrama-dd523cd56fcf42cfbf370b4b57f23079" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/organigrama-dd523cd56fcf42cfbf370b4b57f23079" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
 
 ---
 #Antiguas herramientas de mapa mental
