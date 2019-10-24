@@ -7,11 +7,39 @@ Los servicios Web 2.0 que permiten construir mapas mentales suelen añadir un va
 
 ## ¿Qué herramientas hay?
 
-Hay muchísimas como gustos: [Popplet](http://popplet.com/) , [Spicesnode](http://www.spicynodes.org/), [Mind42](http://mind42.com/), [Mindomo](https://www.mindomo.com/es/) \(gratis sólo hasta 3 mapas\).  \([Ver artículos JR Olalla](http://jr2punto0.blogspot.com.es/search/label/mapas conceptuales)\). ¿Cuál recomendamos? Spicesnote es nuestra favorita
+Hay muchísimas como gustos: [Popplet](http://popplet.com/) , [Spicesnode](http://www.spicynodes.org/), [Mind42](http://mind42.com/), [Mindomo](https://www.mindomo.com/es/) \(gratis sólo hasta 3 mapas\).  \([Ver artículos JR Olalla](http://jr2punto0.blogspot.com.es/search/label/mapas conceptuales)\). ¿Cuál recomendamos? **MINDOMO** es nuestra favorita
 
-Más abajo puedes ver cómo quedan embebidas estas herramientas.
+#MINDOMO REGISTRO
+Entramos en la web y nos pide registrarnos
 
-## Ojo que es un flash
+![](/assets/2019-10-24 09_01_17.jpg)
+
+Nos pregunta por nuestro perfil, evidentemente **PROFESOR**
+
+![](/assets/2019-10-24 09_01_59.jpg)
+
+y tenemos que proporcionar una cuenta de correo electrónico
+
+![](/assets/2019-10-24 09_02_44.jpg)
+
+Una vez aceptado, nos llegará un correo electrónico donde tenemos que aceptar en el enlace que nos proponen para que esté confirmada nuestra cuenta.
+
+Nuestra cuenta es gratuita pero con limitaciones, y tenemos opciones de pago:
+
+![](/assets/2019-10-24 09_08_02.jpg)
+
+#MINDOMO CREAR MAPA MENTAL
+
+En **CREAR** tenemos muchas opciones, no sólo el mapa mental, sino esquemas, historias, comparativas, debate .... navega por las plantillas y verás las posibilidades didácticas de esta herramienta
+
+
+
+
+
+
+---
+#Antiguas herramientas de mapa mental
+## Ojo que muchos son un flash
 
 ¿Y qué? te preguntarás, pues que últimamente los flash tienen mala reputación por los problemas de seguridad, por lo que los navegadores, y ciertos alojadores están empezando a bloquearlos, por ejemplo si haces el blog en wordpress.com no deja embeberlo.
 
