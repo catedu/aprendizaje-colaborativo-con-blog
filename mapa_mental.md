@@ -47,13 +47,14 @@ Y pulsamos en CAMBIAR y le damos acceso PUBLICO PARA QUE TODO EL MUNDO PUEDA VER
 
 ![](/assets/2019-10-24 09_36_32.jpg)
 
-#4 MINDOMO COMO QUEDA EMBEBIDO
-Pues así
+#4 MINDOMO ¿CÓMO QUEDA EMBEBIDO?
+
+Pues así :
 
 <iframe width="500" height="500" src="https://www.mindomo.com/mindmap/organigrama-dd523cd56fcf42cfbf370b4b57f23079" frameborder="0" allowfullscreen>Your browser does not support frames. <a href="https://www.mindomo.com/mindmap/organigrama-dd523cd56fcf42cfbf370b4b57f23079" target="_blank">View</a> this map on its original site. It was created using <a href="https://www.mindomo.com" target="_blank">Mindomo</a>.</iframe>
 
 ---
-#Antiguas herramientas de mapa mental
+#Antiguas herramientas de mapa mental, no aconsejables.
 ## Ojo que muchos son un flash
 
 ¿Y qué? te preguntarás, pues que últimamente los flash tienen mala reputación por los problemas de seguridad, por lo que los navegadores, y ciertos alojadores están empezando a bloquearlos, por ejemplo si haces el blog en wordpress.com no deja embeberlo.
