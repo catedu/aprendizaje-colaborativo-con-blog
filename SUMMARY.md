@@ -64,6 +64,7 @@
     * [REVISTA DE CLASE](revista_de_clase.md)
   * [U2.- Documentos](u2_documentos.md)
     * [Muros](muros.md)
+    * [Mapa mental colaborativo](mapa-mental.md)
     * [Drive Documento](drive_documento.md)
     * [Drive Presentación](drive_presentacin.md)
     * [Drive Hoja de cálculo](drive_hoja_de_clculo.md)
