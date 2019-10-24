@@ -20,7 +20,7 @@ Nos pregunta por nuestro perfil, evidentemente **PROFESOR**
 
 y tenemos que proporcionar una cuenta de correo electrónico
 
-![](/assets/2019-10-24 09_02_44.jpg)
+![](/assets/2019-10-24 09_40_26.jpg)
 
 Una vez aceptado, nos llegará un correo electrónico donde tenemos que aceptar en el enlace que nos proponen para que esté confirmada nuestra cuenta.
 
