@@ -1,28 +1,43 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"],
-    "language": "es",
-    "variables": {
-        "title": "Aprendizaje colaborativo con blog",
-        "author": "Diego Arroyo Murillo (2013)",
-        "collaborators": [
-            { "name": "Javier Quintana", "edited": "2016" }
-        ]
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Aprendizaje colaborativo con blog",
+    "author": "Diego Arroyo Murillo (2013)",
+    "collaborators": [
+      {
+        "name": "Javier Quintana",
+        "edited": "2016"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
     },
-    "pluginsConfig": {
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "edit-link": {
-            "base": "https://github.com/catedu/aprendizaje-colaborativo-con-blog/edit/master",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "aprendizaje-colaborativo-con-blog"
-        }
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/aprendizaje-colaborativo-con-blog/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "aprendizaje-colaborativo-con-blog"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }
