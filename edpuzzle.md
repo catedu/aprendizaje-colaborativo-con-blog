@@ -55,3 +55,10 @@ Míra cómo se hace **[en esta página ](http://aularagon.catedu.es/materialesau
 
 Si no lo ves bien,** [aquí lo tienes](http://aularagon.catedu.es/materialesaularagon2013/blogs/videos/EDPuzzle.pdf) **en (PDF)
 
+######IMPORTANTE PARA USUARIOS DE WORDPRESS
+Si tu blog es un WordPress **no se puede** tal y como dice [aquí](https://support.edpuzzle.com/hc/en-us/articles/360007260632-Can-I-embed-an-assignment-into-an-LMS-blog-or-website-)
+
+>If you're a WordPress user, you can share the assignment with a link which will redirect your students to Edpuzzle (the embed feature isn't currently supported). 
+
+O sea no está soportado, que pongas un enlace que redirija a tus estudiantes al vídeo de EdPuzzle
+
