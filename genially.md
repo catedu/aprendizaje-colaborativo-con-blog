@@ -5,9 +5,11 @@ Es una excelente herramienta https://app.genial.ly/ pues permite crear contenido
 
 ![](/assets/2020-03-10 13_38_30.jpg)
 
-2. **Crea **un contenido, en la versión PLAN FREE tienes mucho dónde elegir (en la Premium mucho más evidentemente), no sólo puede hacer presentaciones, sino también GAMIFICACIÓN, IMÁGENES INTERACTIVAS, INFOGRAFÍAS, HISTORIAS, ... un mundo donde motivar a nuestros alumnos,
+2. **Crea **un contenido, en la versión PLAN FREE tienes mucho dónde elegir (en la Premium mucho más evidentemente), no sólo puede hacer presentaciones, sino también GAMIFICACIÓN, IMÁGENES INTERACTIVAS, INFOGRAFÍAS, HISTORIAS, ... un mundo donde motivar a nuestros alumnos...
 
 ![](/assets/2020-03-10 13_40_24.jpg)
+
+OJO: tiene que ser PUBLICO para poder compartir
 
 3. Una vez creado un contenido puedes conseguir tu **código embed** seleccionando tu creación y dándo al icono de compartir
 
@@ -16,6 +18,8 @@ Es una excelente herramienta https://app.genial.ly/ pues permite crear contenido
 Entra en Insertar y copiar el código:
 
 ![](/assets/2020-03-10 13_44_11.jpg)
+
+> Hay una opción de hacerlo **colaborativo ** pero es añadiendo usuarios que tienen que estar registrados y por lo tanto con correo electrónico. Como esta limitación no es posible en muchos casos no incluimos Genial.ly en el módulo 3 de aprendizaje colaborativo.
 
 ###Cómo queda
 
