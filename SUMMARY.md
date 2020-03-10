@@ -32,6 +32,7 @@
 * [Modulo 2: Aumentar y mejorar nuestros contenidos](index1.md)
 * [Intro](contenidos1.md)
 * [U1.- Embeber](u1_embeber.md)
+  * [Embeber en WP de CATEDU](u1_embeber/embeber-en-wp.md)
 * [U2.- Multimedia](u2_multimedia.md)
   * [Youtube](youtube.md)
   * [EDPuzzle](edpuzzle.md)
