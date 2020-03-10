@@ -1,1 +1,0 @@
-{% include "git+https://github.com/catedu/soportes-informaticos-profesorado.git/tweets.md" %}
