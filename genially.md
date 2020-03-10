@@ -1,17 +1,17 @@
 #Genial.ly
 
 Es una excelente herramienta https://app.genial.ly/ pues permite crear contenidos muy visuales y muy educativos
-1. **Entra **https://app.genial.ly/ y regístrate
+1.- **Entra **https://app.genial.ly/ y regístrate
 
 ![](/assets/2020-03-10 13_38_30.jpg)
 
-2. **Crea **un contenido, en la versión PLAN FREE tienes mucho dónde elegir (en la Premium mucho más evidentemente), no sólo puede hacer presentaciones, sino también GAMIFICACIÓN, IMÁGENES INTERACTIVAS, INFOGRAFÍAS, HISTORIAS, ... un mundo donde motivar a nuestros alumnos...
+2.- **Crea **un contenido, en la versión PLAN FREE tienes mucho dónde elegir (en la Premium mucho más evidentemente), no sólo puede hacer presentaciones, sino también GAMIFICACIÓN, IMÁGENES INTERACTIVAS, INFOGRAFÍAS, HISTORIAS, ... un mundo donde motivar a nuestros alumnos...
 
 ![](/assets/2020-03-10 13_40_24.jpg)
 
 OJO: tiene que ser PUBLICO para poder compartir
 
-3. Una vez creado un contenido puedes conseguir tu **código embed** seleccionando tu creación y dándo al icono de compartir
+3.- Una vez creado un contenido puedes conseguir tu **código embed** seleccionando tu creación y dándo al icono de compartir
 
 ![](/assets/2020-03-10 13_42_59.jpg)
 
