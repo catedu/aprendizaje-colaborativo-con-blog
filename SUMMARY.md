@@ -71,6 +71,7 @@
   * [Drive: Ojo con los permisos](drive_ojo_con_los_permisos.md)
   * [Drive: Ojo si no es un documento Google](drive_ojo_si_no_es_un_documento_google.md)
   * [Texto colaborativo](texto_colaborativo.md)
+  * [Crear un muro](crear-un-muro.md)
 * [U3.- Encuestas](u3_encuestas.md)
   * [Formularios Google](formularios_google.md)
   * [Empezamos](empezamos2.md)
