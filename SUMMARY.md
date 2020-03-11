@@ -51,7 +51,7 @@
   * [Nube de etiquetas](nube_de_etiquetas.md)
   * [Calendarios](calendarios.md)
   * [Como se crea y embebe un calendario](como_se_crea_y_embebe_un_calendario.md)
-  * [Como embeberlo en un meníº lateral \(Blogger\)](como_embeberlo_en_un_men_lateral_blogger.md) 
+  * [Como embeberlo en un meníº lateral \(Blogger\)](como_embeberlo_en_un_men_lateral_blogger.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
   * [Contador de visitas](contador_de_visitas.md)
   * [Historias visuales](historias_visuales.md)
@@ -71,6 +71,7 @@
   * [Drive: Ojo con los permisos](drive_ojo_con_los_permisos.md)
   * [Drive: Ojo si no es un documento Google](drive_ojo_si_no_es_un_documento_google.md)
   * [Texto colaborativo](texto_colaborativo.md)
+  * Muro Padlet
 * [U3.- Encuestas](u3_encuestas.md)
   * [Formularios Google](formularios_google.md)
   * [Empezamos](empezamos2.md)
