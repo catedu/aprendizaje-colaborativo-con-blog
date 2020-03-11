@@ -63,7 +63,7 @@
 * [U1.- Blogs de alumnos](u1_blogs_de_alumnos.md)
   * [REVISTA DE CLASE](revista_de_clase.md)
 * [U2.- Documentos](u2_documentos.md)
-  * [Muros](muros.md)
+  * [Muro Padlet](muro-padlet.md)
   * [Mapa mental colaborativo](mapa-mental.md)
   * [Drive Documento](drive_documento.md)
   * [Drive Presentación](drive_presentacin.md)
@@ -71,7 +71,6 @@
   * [Drive: Ojo con los permisos](drive_ojo_con_los_permisos.md)
   * [Drive: Ojo si no es un documento Google](drive_ojo_si_no_es_un_documento_google.md)
   * [Texto colaborativo](texto_colaborativo.md)
-  * Muro Padlet
 * [U3.- Encuestas](u3_encuestas.md)
   * [Formularios Google](formularios_google.md)
   * [Empezamos](empezamos2.md)
