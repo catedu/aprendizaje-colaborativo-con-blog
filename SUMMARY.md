@@ -63,7 +63,6 @@
 * [U1.- Blogs de alumnos](u1_blogs_de_alumnos.md)
   * [REVISTA DE CLASE](revista_de_clase.md)
 * [U2.- Documentos](u2_documentos.md)
-  * [Muro Padlet](muro-padlet.md)
   * [Mapa mental colaborativo](mapa-mental.md)
   * [Drive Documento](drive_documento.md)
   * [Drive Presentación](drive_presentacin.md)
