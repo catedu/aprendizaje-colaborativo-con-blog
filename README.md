@@ -5,7 +5,7 @@ En este curso aprendemos:
 * Crear un blog
 * Embeber, ponerle contenidos dinámicos
 * Hacerlo participativo, embeber contenidos colaborativos. 
-* Convertirlo en un blog en el aula
+* Convertirlo en un blog en el aula.
 
 
 
