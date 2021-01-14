@@ -35,5 +35,5 @@ Pincha en [este enlace](https://drive.google.com/file/d/0B3FoIk-apny0am95c3FhTVh
 
 ## No me gusta como queda, queda muy pequeño, ¿Hay alguna manera de que se embeba bien?
 
-Sí pero es más complicado y sólo lo sabemos para Word Press, [aquí tienes cómo se hace](https://danielsif227.gitbooks.io/wordpress/plugins/wordpress-y-google-drive.html)
+Sí pero es más complicado y sólo lo sabemos para Word Press, [aquí tienes cómo se hace](https://github.com/catedu/atrevete-con-wordpress/blob/master/plugins/wordpress-y-google-drive.md)
 
